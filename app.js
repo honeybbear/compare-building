@@ -340,13 +340,14 @@ async function loadJSON(path, fallback) {
   } catch (e) { return fallback; }
 }
 async function init() {
-  const [cards, brokers, affiliates, assumptions, trends, briefs] = await Promise.all([
+  const [cards, brokers, affiliates, assumptions, trends, briefs, health] = await Promise.all([
     loadJSON("data/cards.json", {cards: []}), loadJSON("data/brokers.json", {brokers: []}),
     loadJSON("data/affiliates.json", {slots: []}), loadJSON("data/assumptions.json", {}),
     loadJSON("data/trends.json", {topics: []}), loadJSON("data/briefs.json", {briefs: []}),
+    loadJSON("data/health.json", {}),
   ]);
   DB.cards = cards.cards || []; DB.brokers = brokers.brokers || [];
-  DB.affiliates = affiliates; DB.trends = trends; DB.briefs = briefs;
+  DB.affiliates = affiliates; DB.trends = trends; DB.briefs = briefs; DB.health = health;
   if (cards.last_verified) $("verifiedDate").textContent = esc(cards.last_verified);
   const a = assumptions;
   const fill = (id, v) => { if (v !== undefined && $(id)) $(id).value = v; };
@@ -356,6 +357,7 @@ async function init() {
   bindControls();
   renderTagChips(); renderProducts(); renderQuiz();
   renderScout(); renderAffiliates();
+  if (window.Missions) window.Missions.renderCommandDeck();
   simRun(false);
   if (window.ShipSim) window.ShipSim.start();
 }

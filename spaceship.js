@@ -639,8 +639,11 @@
 
   function drawHUD(g, s) {
     var x = 10, y = 10, w = 196;
+    var cmdr = null;
+    try { if (window.Missions) cmdr = window.Missions.computeCommand(DB()); } catch (e) {}
+    var hh = cmdr ? 100 : 86;
     ctx.fillStyle = "rgba(5,10,18,0.72)";
-    rr(x, y, w, 86, 10); ctx.fill();
+    rr(x, y, w, hh, 10); ctx.fill();
     ctx.strokeStyle = "rgba(76,201,240,0.4)"; ctx.lineWidth = 1.5; ctx.stroke();
     ctx.textAlign = "left"; ctx.textBaseline = "alphabetic";
     ctx.fillStyle = "#4cc9f0"; ctx.font = "800 10px system-ui";
@@ -652,6 +655,10 @@
     ctx.fillText(s.stale ? "scouts: STANDBY (no fresh run)" : "sim run-rate: " + money(s.rate) + "/mo fake", x + 10, y + 64);
     ctx.fillStyle = "#5b7a99"; ctx.font = "9px system-ui";
     ctx.fillText("tap a crew member", x + 10, y + 79);
+    if (cmdr) {
+      ctx.fillStyle = "#ffd166"; ctx.font = "800 10px system-ui";
+      ctx.fillText("⚔ CMDR LV." + cmdr.level + " · " + cmdr.title.toUpperCase() + " · " + cmdr.xp + " XP", x + 10, y + 93);
+    }
   }
 
   /* ---------------- main loop ---------------- */
