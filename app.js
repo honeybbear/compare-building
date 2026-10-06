@@ -43,31 +43,8 @@ const FLOORS = [
      reasoning: "Shows the math that would make $1,000/mo real — or proves it isn't."}]},
 ];
 
-function renderBuilding() {
-  const b = $("building");
-  b.innerHTML = FLOORS.map((f, fi) => `
-    <button class="floor" style="--fc:${f.color}" data-floor="${fi}">
-      <div class="floor-head"><span class="floor-no">${f.no}</span>
-        <span class="floor-name">${esc(f.name)}</span>
-        <span class="floor-dept">${esc(f.dept)}</span></div>
-      <div class="agents">${f.agents.map((a, ai) => `
-        <span class="agent" data-floor="${fi}" data-agent="${ai}">
-          <span class="agent-top"><span class="avatar" style="--fc:${f.color}">${esc(a.id)}</span>
-          <span><span class="agent-id">${esc(a.id)}</span><br><span class="agent-name">${esc(a.name)}</span></span></span>
-          <span class="agent-task">${esc(a.task)}</span>
-        </span>`).join("")}</div>
-    </button>`).join("");
-  b.querySelectorAll("[data-agent]").forEach((el) => {
-    el.addEventListener("click", (ev) => {
-      ev.stopPropagation();
-      const a = FLOORS[+el.dataset.floor].agents[+el.dataset.agent];
-      agentSheet(a, FLOORS[+el.dataset.floor]);
-    });
-  });
-  b.querySelectorAll(".floor").forEach((el) => {
-    el.addEventListener("click", () => floorSheet(FLOORS[+el.dataset.floor]));
-  });
-}
+/* Exposed for the spaceship mission-control scene (spaceship.js). */
+window.CB = { FLOORS: FLOORS, state: state, DB: DB, agentSheet: agentSheet, floorSheet: floorSheet };
 
 function agentSheet(a, f) {
   const from = a.from.length
@@ -92,33 +69,6 @@ function floorSheet(f) {
 function openSheet(html) { $("sheetBody").innerHTML = html; $("sheetWrap").hidden = false; }
 function closeSheet() { $("sheetWrap").hidden = true; }
 
-/* ---------------- flow animation ---------------- */
-const flow = {packets: []};
-function flowTick() {
-  const cv = $("flow"), wrap = cv.parentElement;
-  const W = wrap.clientWidth, H = wrap.clientHeight;
-  if (cv.width !== W) { cv.width = W; cv.height = H; }
-  const ctx = cv.getContext("2d");
-  ctx.clearRect(0, 0, W, H);
-  if (!state.paused && Math.random() < 0.06 * state.speed && flow.packets.length < 24) {
-    const floors = [...document.querySelectorAll(".floor")];
-    if (floors.length > 1) {
-      const i = Math.floor(Math.random() * (floors.length - 1));
-      const r1 = floors[i].getBoundingClientRect(), r2 = floors[i + 1].getBoundingClientRect(), wr = wrap.getBoundingClientRect();
-      flow.packets.push({x: r1.left - wr.left + r1.width * (0.3 + Math.random() * 0.4),
-        y0: r1.top - wr.top, y1: r2.top - wr.top + r2.height, p: 0,
-        c: FLOORS[i].color});
-    }
-  }
-  flow.packets = flow.packets.filter((k) => k.p <= 1);
-  for (const k of flow.packets) {
-    if (!state.paused) k.p += 0.012 * state.speed;
-    const y = k.y0 + (k.y1 - k.y0) * k.p;
-    ctx.beginPath(); ctx.arc(k.x, y, 3.5, 0, 7);
-    ctx.fillStyle = k.c; ctx.globalAlpha = 0.85; ctx.fill(); ctx.globalAlpha = 1;
-  }
-  requestAnimationFrame(flowTick);
-}
 
 /* ---------------- products ---------------- */
 function allProducts() {
@@ -403,10 +353,10 @@ async function init() {
   fill("a_visitors", a.start_monthly_visitors); fill("a_growth", a.monthly_growth_pct);
   fill("a_ctr", a.click_through_pct); fill("a_approval", a.approval_rate_pct);
   fill("a_payout", a.avg_payout_usd); fill("a_months", a.months);
-  renderBuilding(); bindControls();
+  bindControls();
   renderTagChips(); renderProducts(); renderQuiz();
   renderScout(); renderAffiliates();
   simRun(false);
-  requestAnimationFrame(flowTick);
+  if (window.ShipSim) window.ShipSim.start();
 }
 document.addEventListener("DOMContentLoaded", init);
