@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Compare Building — High-Payout Comparisons, Automated</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">🏢</div>
+    <div><h1>Compare Building</h1><p>High-payout comparisons, automated</p></div>
+  </div>
+  <div class="livebox">
+    <span class="pill" id="livePill"><span class="dot"></span>LIVE</span>
+    <div class="updated" id="updatedAt">loading…</div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="chips" role="tablist" aria-label="Vertical filter">
+    <button class="chip" id="vertAll" aria-selected="true">All</button>
+    <button class="chip" id="vertCards" aria-selected="false">Credit Cards</button>
+    <button class="chip" id="vertBrokers" aria-selected="false">Brokerages</button>
+  </div>
+  <div class="ctl-row">
+    <button class="btn" id="pauseBtn">⏸ Pause motion</button>
+    <label class="speed">Speed <input type="range" id="speedRange" min="0.25" max="3" step="0.25" value="1"><span id="speedVal">1×</span></label>
+  </div>
+</div>
+
+<div class="building-wrap">
+  <canvas id="flow"></canvas>
+  <div class="building" id="building"></div>
+  <p class="hint">Tap any floor or agent to see what it does and where its work goes.</p>
+</div>
+
+<section class="panel" id="compare">
+  <h2>Compare</h2>
+  <p class="sub">Every fact below is a public fact, verified <span id="verifiedDate">recently</span>. Terms change — always confirm on the issuer's site before applying.</p>
+  <div class="chips" role="tablist" aria-label="Compare tables">
+    <button class="chip" id="tabCards" aria-selected="true">Credit Cards</button>
+    <button class="chip" id="tabBrokers" aria-selected="false">Brokerages</button>
+  </div>
+  <div class="chips" id="tagChips" aria-label="Filter by tag"></div>
+  <div id="productGrid" class="grid"></div>
+</section>
+
+<section class="panel" id="quiz">
+  <h2>Best for X quiz</h2>
+  <p class="sub">Three questions. We match you to cards from the verified table — no hype, no sponsored order.</p>
+  <div id="quizQ"></div>
+  <div id="quizResult"></div>
+</section>
+
+<section class="panel" id="sim">
+  <h2>Simulation Lab</h2>
+  <div class="sim-banner">SIMULATION — fake money. Projections from <em>your</em> assumptions, not real earnings.</div>
+  <p class="sub">Why high-payout verticals change the math: card affiliates pay roughly <strong>$50–200 per approved application</strong> (2026 program roundups), versus ~4% Amazon-style commissions. Fewer conversions needed — but traffic is still the hard part.</p>
+  <div class="assump-grid">
+    <label>Monthly visitors (start)<input type="number" id="a_visitors" value="500" min="0"></label>
+    <label>Monthly growth %<input type="number" id="a_growth" value="15" min="0" step="0.5"></label>
+    <label>Click-through %<input type="number" id="a_ctr" value="8" min="0" max="100" step="0.5"></label>
+    <label>Approval rate %<input type="number" id="a_approval" value="5" min="0" max="100" step="0.5"></label>
+    <label>Avg payout $<input type="number" id="a_payout" value="75" min="0"></label>
+    <label>Months<input type="number" id="a_months" value="12" min="1" max="36"></label>
+  </div>
+  <button class="runbtn" id="runSim">▶ Run 12-month simulation</button>
+  <div id="simStats" class="statcards"></div>
+  <canvas id="simChart" height="180"></canvas>
+  <div id="simTarget" class="target"></div>
+  <h3>Per-product share <span class="tiny">(assumes clicks spread evenly — a simplification)</span></h3>
+  <div id="simTable"></div>
+  <p class="reality" id="simNote"></p>
+</section>
+
+<section class="panel" id="scoutsec">
+  <h2>Scout report</h2>
+  <p class="sub">What the Scouts found this morning — real headlines, real discussions.</p>
+  <div id="trendList"></div>
+  <h3>Creator queue <span class="tiny">(briefs from scouted material)</span></h3>
+  <div id="briefList"></div>
+</section>
+
+<section class="panel" id="monetize">
+  <h2>Monetize</h2>
+  <p class="sub">One affiliate ID activates links site-wide. Empty slots stay honestly "coming soon".</p>
+  <div id="affSlots"></div>
+</section>
+
+<footer class="disclaimer">
+  Educational content only — not financial advice. Card and brokerage terms change; verify everything on the issuer's official site before applying or opening an account.<br>
+  Affiliate disclosure: if we ever earn a commission from a link, it will be marked <em>rel="sponsored"</em>. Right now, no affiliate links are active.<br>
+  This site never places wagers and never moves money.
+</footer>
+
+<div class="sheet-wrap" id="sheetWrap" hidden>
+  <div class="sheet-backdrop" id="sheetBackdrop"></div>
+  <div class="sheet" role="dialog" aria-modal="true">
+    <button class="sheet-close" id="sheetClose" aria-label="Close">✕</button>
+    <div id="sheetBody"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
