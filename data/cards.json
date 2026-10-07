@@ -1,1 +1,131 @@
-{"_note":"Public facts only, last verified 2026-10-06. Card terms change — always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.","cards":[{"annual_fee":"$95","best_for":["travel","points","transfer partners"],"id":"chase-sapphire-preferred","issuer":"Chase","name":"Chase Sapphire Preferred","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"Bonus Ultimate Rewards points on travel and dining; points transfer to airline and hotel partners."},{"annual_fee":"$0","best_for":["cash back","no annual fee","simplicity"],"id":"wells-fargo-active-cash","issuer":"Wells Fargo","name":"Wells Fargo Active Cash","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"2% cash back on all purchases."},{"annual_fee":"$0","best_for":["cash back","no annual fee","simplicity"],"id":"citi-double-cash","issuer":"Citi","name":"Citi Double Cash","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"2% cash back on all purchases (1% when you buy, 1% when you pay)."},{"annual_fee":"$0","best_for":["cash back","no annual fee","beginners"],"id":"chase-freedom-unlimited","issuer":"Chase","name":"Chase Freedom Unlimited","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"1.5% cash back on all purchases."},{"annual_fee":"$0","best_for":["cash back","no annual fee","rotating categories"],"id":"discover-it","issuer":"Discover","name":"Discover it Cash Back","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"5% cash back in rotating quarterly categories (activation required), 1% on everything else."},{"annual_fee":"$0","best_for":["cash back","no annual fee","groceries"],"id":"amex-blue-cash-everyday","issuer":"American Express","name":"Amex Blue Cash Everyday","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"3% back at U.S. supermarkets and on U.S. online retail purchases, 1% on everything else."},{"annual_fee":"$95","best_for":["travel","simplicity","miles"],"id":"capital-one-venture","issuer":"Capital One","name":"Capital One Venture","note":"Verify current terms on the issuer's site before applying.","rewards_summary":"2X miles on every purchase."},{"annual_fee":"$325","best_for":["travel","dining","groceries","points"],"id":"amex-gold","issuer":"American Express","name":"Amex Gold","note":"Annual fee raised to $325 in 2024. Verify current terms on the issuer's site before applying.","rewards_summary":"4X points at restaurants and U.S. supermarkets."}],"last_verified":"2026-10-06"}
+{
+  "_note": "Public facts only, last verified 2026-10-06. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "cards": [
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "travel",
+        "points",
+        "transfer partners"
+      ],
+      "id": "chase-sapphire-preferred",
+      "issuer": "Chase",
+      "name": "Chase Sapphire Preferred",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Bonus Ultimate Rewards points on travel and dining; points transfer to airline and hotel partners."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "simplicity"
+      ],
+      "id": "wells-fargo-active-cash",
+      "issuer": "Wells Fargo",
+      "name": "Wells Fargo Active Cash",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2% cash back on all purchases."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "simplicity"
+      ],
+      "id": "citi-double-cash",
+      "issuer": "Citi",
+      "name": "Citi Double Cash",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2% cash back on all purchases (1% when you buy, 1% when you pay)."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "beginners"
+      ],
+      "id": "chase-freedom-unlimited",
+      "issuer": "Chase",
+      "name": "Chase Freedom Unlimited",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "1.5% cash back on all purchases."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "rotating categories"
+      ],
+      "id": "discover-it",
+      "issuer": "Discover",
+      "name": "Discover it Cash Back",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "5% cash back in rotating quarterly categories (activation required), 1% on everything else."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "groceries"
+      ],
+      "id": "amex-blue-cash-everyday",
+      "issuer": "American Express",
+      "name": "Amex Blue Cash Everyday",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "3% back at U.S. supermarkets and on U.S. online retail purchases, 1% on everything else."
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "travel",
+        "simplicity",
+        "miles"
+      ],
+      "id": "capital-one-venture",
+      "issuer": "Capital One",
+      "name": "Capital One Venture",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2X miles on every purchase."
+    },
+    {
+      "annual_fee": "$325",
+      "best_for": [
+        "travel",
+        "dining",
+        "groceries",
+        "points"
+      ],
+      "id": "amex-gold",
+      "issuer": "American Express",
+      "name": "Amex Gold",
+      "note": "Annual fee raised to $325 in 2024. Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "4X points at restaurants and U.S. supermarkets."
+    },
+    {
+      "id": "amex-blue-cash-preferred",
+      "name": "Amex Blue Cash Preferred",
+      "issuer": "American Express",
+      "annual_fee": "$0 intro first year, then $95",
+      "best_for": [
+        "groceries",
+        "streaming",
+        "cash back",
+        "gas"
+      ],
+      "rewards_summary": "6% back at U.S. supermarkets on up to $6,000/year in purchases (then 1%), 6% on select U.S. streaming, 3% at U.S. gas stations and on transit, 1% elsewhere. Cash back earned as Reward Dollars.",
+      "note": "Verify current terms on the issuer's site before applying. Intro offers omitted as they change often.",
+      "last_verified": "2026-10-07",
+      "sources": [
+        "fool.com (Blue Cash Preferred review, Sep 2026)",
+        "bestmoney.com (review, Sep 2026)",
+        "americanexpress.com card page via CardWise audit 2026-09-20"
+      ]
+    }
+  ],
+  "last_verified": "2026-10-07"
+}
