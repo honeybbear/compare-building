@@ -151,7 +151,21 @@
         "high spenders"
       ],
       "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. High fee only pencils out if you use the major credits; verify against your own travel habits."
+    },
+    {
+      "id": "citi-custom-cash",
+      "name": "Citi Custom Cash Card",
+      "issuer": "Citi",
+      "annual_fee": "$0",
+      "rewards_summary": "5% cash back on purchases in your top eligible spend category each billing cycle (up to the first $500 spent, then 1%); 1% cash back on all other purchases. No categories to pick or activate \u2014 the card adjusts automatically. Earns ThankYou points.",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "automatic categories"
+      ],
+      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
+      "last_verified": "2026-10-10"
     }
   ],
-  "last_verified": "2026-10-09"
+  "last_verified": "2026-10-10"
 }
