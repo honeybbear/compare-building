@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T12:07:26Z",
+  "fetched_at": "2026-10-10T14:43:51Z",
   "sources": [
     "Google News RSS",
     "Hacker News API"
@@ -55,10 +55,10 @@
       "query": "best credit cards 2026"
     },
     {
-      "title": "Amex announces 2 new Centurion Lounges near New York City and in London, plus updates to two locations. These credit cards can get you in - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DbTZNN3d6aUFaT3V5MktfQTZOdndTX3JjT25BSUlQQ0ZyeW5wRVYwbWVRQVZEWlNpMmNwcHdSOGwxVE96emRyX1Q3Vk5Nel9GelZ5Q2ZYa0J6OU5ZMGUyNVlMSmxlLVRLVEtJU1R3UERRLXfSAXhBVV95cUxQQVV2X001dXp4bGs0UnhKMF9jRWg5TXZULURNcmRUXzBkNnBsY3pxMEQ3eUpsQmUyZjFrY1h2NGNacXRmMUxnMTlJbU8yOVoyZnZBelVabE9kZkZoaWxHUE5ETTJ0X28zNzc3cHE2N3J6YTVkWnRKeG8?oc=5",
-      "source": "CNBC",
-      "published": "Fri, 09 Oct 2026 16:39:15 GMT",
+      "title": "Best Credit Cards For Travel And Cash Back Of 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFNVZG9QRTdaYUR2dkFiYzNPMUEwUkdGRHJ0cTBBV2hjLUZPXzlZanY5NXU1VDk2VkJOcG9zQ3JWMmtzRi1ZUktxZExwYm9FeXoySklyT1IxdEhOYUcyZnhDWXREVExSNjRMWkxNb0tjVGlSVTcxU0NBZVFTU2hEZDBwNXp5eHJEYU4w?oc=5",
+      "source": "Forbes",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
       "query": "best credit cards 2026"
     },
     {
@@ -160,17 +160,17 @@
       "query": "best brokerage account"
     },
     {
-      "title": "8 Best Online Trading Platforms of 2026 - MONEY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83elk1VHhwTHRsamN5T2llVU00YUpFM25zUVFKTW44dXkwcURnQjJqaW51aVRLd2hfelI1clp4Nk9jSU1SMER6Q3N2TWJuV0x0MmhSTElJbHNhNnBIM1pOaFVjWFc?oc=5",
-      "source": "MONEY",
-      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "query": "best brokerage account"
-    },
-    {
       "title": "The Best Brokerage Sign-up Bonuses Right Now - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0ZTcXpDb1R0T0I2enVBclJTVm1FUTY4VG94M0RDZS0xM1BVMUtyRjRjUWJsWFRQOVEzaHQ3RFMzZVdUX01QdkVmbHhUdmRXVFJ4YnBaZGNnQWZpbkFGdDhBRXIwbGFZNWtTTDZqSk03SWs5TVo4TnlzS0s1SlZ0bGI0T2w3clkyd1E?oc=5",
       "source": "NerdWallet",
       "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "query": "best brokerage account"
+    },
+    {
+      "title": "Best International Online Brokers In 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5acDRXcXdLdTFtZzd5MWVpRzZ3MVhCT05rM2NBNlBDU2ZxNGNIakZ2MVZGQjhkdk05TlpTNEJ2WnI4cWxYMDR4RzBrNGJOTTVJeXZWcy1pT2pRMFgtZGsyd1kxYUR1WFNjeGhzYU42cFFyckU5?oc=5",
+      "source": "Forbes",
+      "published": "Thu, 01 Oct 2026 22:20:00 GMT",
       "query": "best brokerage account"
     },
     {
@@ -199,6 +199,13 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYks5ZkZnUmZNU1JyTkt3UWV4X1U2VENoVVY1Y1ZhMjMxSDZnVF9lQ3hTeWMtdWNTUk9BTGIxa0VQX2tiRlRZeDltZFlLeGRhc3B2Skh6UE9XTS1WSVRsV2didTNWU051VklmOEd1YUpfWlhmckQ5bTE1WUkyOGJGZldVUVJ0V2NhRm43NjN3MjhmQQ?oc=5",
       "source": "World Business Outlook",
       "published": "Fri, 09 Oct 2026 11:01:07 GMT",
+      "query": "best online broker 2026"
+    },
+    {
+      "title": "8 Best Online Trading Platforms of 2026 - MONEY",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83elk1VHhwTHRsamN5T2llVU00YUpFM25zUVFKTW44dXkwcURnQjJqaW51aVRLd2hfelI1clp4Nk9jSU1SMER6Q3N2TWJuV0x0MmhSTElJbHNhNnBIM1pOaFVjWFc?oc=5",
+      "source": "MONEY",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
       "query": "best online broker 2026"
     },
     {
