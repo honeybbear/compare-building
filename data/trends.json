@@ -1,15 +1,22 @@
 {
-  "fetched_at": "2026-10-11T12:21:19Z",
+  "fetched_at": "2026-10-11T14:44:26Z",
   "sources": [
     "Google News RSS",
     "Hacker News API"
   ],
   "topics": [
     {
-      "title": "Longest 0% Intro APR Credit Cards This Week, Oct. 11, 2026: Up to 21 Months of No-Interest Payments - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzVHSVRsV181ak9XT25CTzctLWVBQ2o0VmdGeFl4SDhqMWVaRW0wbGY3enQtSDctYm1sZ29aYkN1VTVfRUpwb1EydU1PcUh6NHE4QVBPVUJtZEtVQ25vZk1VUWZ1cGRvZ2xKQ1R6SDUwbjlzTHlMUWdpSEdyaG5KdTExQUlSSS1BblIyR3NqTHZURWQtTVFkVHVlQlpueVZSNGpFaWFocw?oc=5",
+      "title": "Cash-Back Credit Cards That Feel High-End - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l6dVZVVkZnX1VzcXh3RlBvdmFHcW5yeDZoVzA0M0tNc0otNUc0V3BXcUhRWFVVTVFvZ3hwZGM2UWh6LWtjUFljX3NVU3l0d2Fhbmo2c3VnWFpHcXJrOW5WRDhlaGxKZ1c5NTYzM1V0dGl5UXBPcG1mdkpzdUI5RExaTlV4TkNYRnV4LUF2alY?oc=5",
+      "source": "NerdWallet",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "Get 3% Back on a Category You Choose: The Best Business Credit Cards This Week, Oct. 11, 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUVidlBjVW40M05OaUFUcXJRRXpUNklFSzI1Q2hiNzFnNEdzZk5qREJ6RUwxQlZfMUhFTF9Qb21iXy1tS3o4akJOdzlDbkhhcWhSeUM1NWZwNnlXZi01c3dSZHBNNk8wWjBvNE5ZdUVWUXVRaGxqZnNsWmVuSHk1Z0pQVzdRcHl3V08yd0xNcXpTTHdoLTZROWNMRQ?oc=5",
       "source": "The Motley Fool",
-      "published": "Sun, 11 Oct 2026 09:30:48 GMT",
+      "published": "Sun, 11 Oct 2026 10:00:28 GMT",
       "query": "best credit cards 2026"
     },
     {
@@ -20,17 +27,17 @@
       "query": "best credit cards 2026"
     },
     {
-      "title": "Best CD rates today, Sunday, October 11, 2026: Earn up to 4.50% APY - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXltVk05SzlzUVJxOXZEY08zcFYyR3o5RGVNQmtwdWhWOTZYU3dCcklfM0JjS2NoMUY0V2dVYkoyRi1sVVZBemd2bzhiVUUzR3BGSXFIcFpWNUtOMXplYndER3lpaDdmMUU1b21hM01Pd0h6UXBkbThPalRYeGVlcXF1b0x4d0VpaXBvclhHYzA5Q3lFQ1RVaTdfWEJlcXlqWk5fQTNWQWl0M1R3UEF6Y2xwR2tlU3h0R2tqdVBXSGEyM3BzX3NQYzJkMERIOVFU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
       "title": "Best credit cards for sports fans in 2026: Score presale tickets, earn rewards on merch and more - CNBC",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQk5nZUJnSmpPYVQwY3ZpSTk4bTVPUjlLWGxNNVZ0YTRTS3J3Mm94TzhESThvdFk5YnBrNEJwRlRwQTdIeU11dGJMOUlQa3AteWZVSTFhWEZaeTFhbGFTVWt6VHRqU3h0OTRTVndVWdIBdEFVX3lxTFBtRG9COGZOODI1cDlXUERzdXpCUC1hc1k5X1FVdFVqMmVvQk83UGpXNElpYml6UFM2MHhVUlB1S2JnZTk4alVoaG8yTWhVNlVvTFlMVHFwNEVJZFk5bENVZ1FrUFFKWUQyM01PSVY2UXZVVUlD?oc=5",
       "source": "CNBC",
       "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "Best CD rates today, Sunday, October 11, 2026: Earn up to 4.50% APY - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXltVk05SzlzUVJxOXZEY08zcFYyR3o5RGVNQmtwdWhWOTZYU3dCcklfM0JjS2NoMUY0V2dVYkoyRi1sVVZBemd2bzhiVUUzR3BGSXFIcFpWNUtOMXplYndER3lpaDdmMUU1b21hM01Pd0h6UXBkbThPalRYeGVlcXF1b0x4d0VpaXBvclhHYzA5Q3lFQ1RVaTdfWEJlcXlqWk5fQTNWQWl0M1R3UEF6Y2xwR2tlU3h0R2tqdVBXSGEyM3BzX3NQYzJkMERIOVFU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "query": "best credit cards 2026"
     },
     {
@@ -48,25 +55,11 @@
       "query": "best credit cards 2026"
     },
     {
-      "title": "Best Travel Credit Card Sign-Up Bonuses in 2026 - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ibDJLUmhMQTJONjZEbFpKdm1NOVd3NGQ3ZGpiU09tLTg0QThpTGFMNEVhenNGSTdrendPcHhLLWFsckF6U2ZPNGxTS056QUFPXy1TbU1ScEpHN3VkVkRJMEFPdTRNSXBzUWxORDFCVmlNWWhlSWhMN2V3?oc=5",
-      "source": "NerdWallet",
-      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
       "title": "Best time to apply for Delta American Express cards based on offer history - The Points Guy",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU9pYXVud0VpNmR1bE5oMHpPQmdWbWpleDRKd3NpYXdvWVczSzgtQnJJckhOMVVoaDcyMjB5RDctQ1BJdTBsR3NfV0k0ZnVlYUplZDczRU9lV0tURlFCSHRoR1BsUEYyRngxbUZDN21DaXlZUjBSVHNnc2FsLVp5NWMwU0ZyRW9N?oc=5",
       "source": "The Points Guy",
       "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "query": "best credit cards 2026"
-    },
-    {
-      "title": "What Is the Standard Cash-Back Rate for Credit Cards, 1.5% or 2%? - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmhDd25EaDFXZEtFbFlmckpOLTVjV2s3Yks5Q29WX2QyOV96TEdteVVaOERZUjAyVnpUbE53dl84cTFBUEdNUmRVWk13cDM5RERYU0xBRTNrNVc5RVVVaEdfeWc0ZkR1bnNpdmhSSnJhVUwxUFY2QUhVcFE0R3VLYkI1alNVTUJXNi1JUTdaNzU2MlNESmlBaHpfZFJLdlJv?oc=5",
-      "source": "NerdWallet",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "query": "best cash back credit cards"
     },
     {
       "title": "I’ve covered credit cards for 10 years — these are my favorite cash back cards - CNN",
@@ -97,13 +90,6 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "Best Cash Back Credit Cards of 2026: Earn up to 6% Back - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVFJiOGlpbDFoV0FuTzBrT0lOaEtwb2xYQTNWbzdYd1VNZE9Jd1hMSkU5cDZkMHFHajZuZE9kVGVZSkVoYWQyVGphbU02b3E2WndGNEo3cVFMZkhhdHZQV0FfSk5ENndwb2lQeXhZLVhiT005bFN3?oc=5",
-      "source": "The Motley Fool",
-      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
       "title": "The 20 best Chase Sapphire Preferred Card benefits - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVo4UVBabXdyZkRnU2JmWGZTSUxIQkw0ekJRaW1rNEl0LTRDbGZHQUtMR2JPREhJcnkwN0NZYWlYTDRrLThqQXJlRzY3ak94NklEWll4bXh3dG1pQmlsTjBHWEtoMmtlSWlKUmFhakNzb1l6NjBER0Y1MVNZZTMwQ1pzMFJmbnNETENCeVZrUUt6X1FPaUx5SGpKQVFJTG53aDFGV2lQSmMtb0kxMTFQSnl1Mi1zNVVnaGt4LUY5dTVPVTg?oc=5",
       "source": "Yahoo Finance",
@@ -111,8 +97,8 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "Which Cash-Back Credit Cards Offer a Good Welcome Bonus? - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeTlQb2ozWGJvSU9xQXNaZVBOQVhnZFFPVzE0aENoN1FRQkVfeC1OWW5idkdldldMN0VKQnRPZFZNeGV3OTZYU2JXanFjTndVR3RISHpQMWF1cVQxRl96REtGNVk2Y0p1RUJZZDRaclhwS1JtSW5hbzh4M3ZkdVNPQzYtZXZucHFYZ1pZcG5IV2Q?oc=5",
+      "title": "What Is the Standard Cash-Back Rate for Credit Cards, 1.5% or 2%? - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmhDd25EaDFXZEtFbFlmckpOLTVjV2s3Yks5Q29WX2QyOV96TEdteVVaOERZUjAyVnpUbE53dl84cTFBUEdNUmRVWk13cDM5RERYU0xBRTNrNVc5RVVVaEdfeWc0ZkR1bnNpdmhSSnJhVUwxUFY2QUhVcFE0R3VLYkI1alNVTUJXNi1JUTdaNzU2MlNESmlBaHpfZFJLdlJv?oc=5",
       "source": "NerdWallet",
       "published": "Thu, 01 Oct 2026 07:00:00 GMT",
       "query": "best cash back credit cards"
