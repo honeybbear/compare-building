@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-06. Brokerage features change \u2014 always verify current terms on the brokerage's official site before opening an account. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-06. Brokerage features change — always verify current terms on the brokerage's official site before opening an account. Fields marked 'unverified' need a fresh check.",
   "brokers": [
     {
       "account_minimum": "$0",
@@ -90,6 +90,20 @@
       ],
       "note": "Two pricing tiers: IBKR Lite offers $0 commissions on US stocks/ETFs (US residents); IBKR Pro uses per-share commissions with SmartRouting and lower margin rates. Verify current terms on the broker's site before opening an account.",
       "last_verified": "2026-10-11"
+    },
+    {
+      "id": "sofi-invest",
+      "name": "SoFi Invest",
+      "account_minimum": "$0",
+      "stock_etf_commission": "$0",
+      "fractional_shares": "yes (from $5)",
+      "best_for": [
+        "beginner investors",
+        "SoFi banking ecosystem users",
+        "low-cost casual investors"
+      ],
+      "note": "Active Investing offers $0 commissions on stocks and ETFs, no account minimum, and fractional shares from $5; taxable, Traditional, Roth, and SEP IRAs available. Light on advanced research and trading tools; margin accounts require $2,000. Verify current terms on the broker's site before opening an account.",
+      "last_verified": "2026-10-12"
     }
   ],
   "last_verified": "2026-10-11"
