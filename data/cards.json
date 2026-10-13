@@ -165,7 +165,20 @@
       ],
       "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
       "last_verified": "2026-10-10"
+    },
+    {
+      "id": "capital-one-savor",
+      "name": "Capital One Savor",
+      "issuer": "Capital One",
+      "annual_fee": "$0",
+      "best_for": [
+        "dining",
+        "groceries",
+        "entertainment"
+      ],
+      "rewards_summary": "3% back on dining, groceries (excluding superstores), entertainment, and popular streaming services; 5% on hotels and rental cars booked through Capital One Travel; 8% on Capital One Entertainment purchases; 1% on all other purchases. No foreign transaction fees.",
+      "note": "Verify current terms on the issuer's site before applying."
     }
   ],
-  "last_verified": "2026-10-10"
+  "last_verified": "2026-10-13"
 }
