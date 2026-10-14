@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-06. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-14. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -178,6 +178,22 @@
       ],
       "rewards_summary": "3% back on dining, groceries (excluding superstores), entertainment, and popular streaming services; 5% on hotels and rental cars booked through Capital One Travel; 8% on Capital One Entertainment purchases; 1% on all other purchases. No foreign transaction fees.",
       "note": "Verify current terms on the issuer's site before applying."
+    },
+    {
+      "id": "bofa-customized-cash",
+      "name": "Bank of America Customized Cash Rewards",
+      "issuer": "Bank of America",
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "gas",
+        "online shopping",
+        "flexible categories",
+        "no annual fee"
+      ],
+      "rewards_summary": "3% back in one category you choose each month (gas/EV charging, online shopping, dining, travel, drug stores, or home improvement); 2% at grocery stores and wholesale clubs; 1% on everything else. 3%/2% tiers capped at $2,500 in combined quarterly spending.",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-14"
     }
   ],
   "last_verified": "2026-10-13"
