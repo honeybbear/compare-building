@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-14. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-15. Card terms change — always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -137,7 +137,7 @@
         "lounges",
         "flat-rate miles"
       ],
-      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying."
+      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying."
     },
     {
       "id": "chase-sapphire-reserve",
@@ -150,20 +150,20 @@
         "lounges",
         "high spenders"
       ],
-      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. High fee only pencils out if you use the major credits; verify against your own travel habits."
+      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying. High fee only pencils out if you use the major credits; verify against your own travel habits."
     },
     {
       "id": "citi-custom-cash",
       "name": "Citi Custom Cash Card",
       "issuer": "Citi",
       "annual_fee": "$0",
-      "rewards_summary": "5% cash back on purchases in your top eligible spend category each billing cycle (up to the first $500 spent, then 1%); 1% cash back on all other purchases. No categories to pick or activate \u2014 the card adjusts automatically. Earns ThankYou points.",
+      "rewards_summary": "5% cash back on purchases in your top eligible spend category each billing cycle (up to the first $500 spent, then 1%); 1% cash back on all other purchases. No categories to pick or activate — the card adjusts automatically. Earns ThankYou points.",
       "best_for": [
         "cash back",
         "no annual fee",
         "automatic categories"
       ],
-      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
+      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
       "last_verified": "2026-10-10"
     },
     {
@@ -194,6 +194,19 @@
       "rewards_summary": "3% back in one category you choose each month (gas/EV charging, online shopping, dining, travel, drug stores, or home improvement); 2% at grocery stores and wholesale clubs; 1% on everything else. 3%/2% tiers capped at $2,500 in combined quarterly spending.",
       "note": "Verify current terms on the issuer's site before applying.",
       "last_verified": "2026-10-14"
+    },
+    {
+      "id": "capital-one-quicksilver",
+      "name": "Capital One Quicksilver",
+      "issuer": "Capital One",
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "simplicity"
+      ],
+      "rewards_summary": "Unlimited 1.5% cash back on every purchase; 5% on hotels, vacation rentals, and rental cars booked through Capital One Travel. No foreign transaction fees.",
+      "note": "Verify current terms on the issuer's site before applying."
     }
   ],
   "last_verified": "2026-10-13"
