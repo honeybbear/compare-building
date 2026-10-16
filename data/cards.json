@@ -207,7 +207,20 @@
       ],
       "rewards_summary": "Unlimited 1.5% cash back on every purchase; 5% on hotels, vacation rentals, and rental cars booked through Capital One Travel. No foreign transaction fees.",
       "note": "Verify current terms on the issuer's site before applying."
+    },
+    {
+      "id": "us-bank-cash-plus",
+      "name": "U.S. Bank Cash+ Visa Signature",
+      "issuer": "U.S. Bank",
+      "annual_fee": "$0",
+      "best_for": [
+        "cash back",
+        "no annual fee",
+        "custom categories"
+      ],
+      "rewards_summary": "Earn 5% cash back on two categories you choose each quarter (first $2,000 in combined purchases per quarter; quarterly enrollment required), 2% on one everyday category such as gas/EV charging, grocery, or restaurants, and 1% on everything else. 5% also on prepaid travel booked through the U.S. Bank Rewards Center.",
+      "note": "Verify current terms on the issuer's site before applying."
     }
   ],
-  "last_verified": "2026-10-13"
+  "last_verified": "2026-10-16"
 }
