@@ -220,7 +220,22 @@
       ],
       "rewards_summary": "Earn 5% cash back on two categories you choose each quarter (first $2,000 in combined purchases per quarter; quarterly enrollment required), 2% on one everyday category such as gas/EV charging, grocery, or restaurants, and 1% on everything else. 5% also on prepaid travel booked through the U.S. Bank Rewards Center.",
       "note": "Verify current terms on the issuer's site before applying."
+    },
+    {
+      "id": "bilt-blue",
+      "name": "Bilt Blue Card",
+      "issuer": "Cardless",
+      "annual_fee": "$0",
+      "best_for": [
+        "renters",
+        "homeowners",
+        "no annual fee",
+        "transfer partners"
+      ],
+      "rewards_summary": "1x Bilt points on everyday purchases, with an option to earn 4% Bilt Cash on non-housing spending instead. Earn up to 1.25x Bilt points on rent, mortgage, and HOA payments made through the Bilt app with no transaction fee (rate scales with everyday card spending). Bilt points transfer to airline and hotel partners. No foreign transaction fees.",
+      "note": "The original Bilt Mastercard (Wells Fargo) was retired in February 2026; the current Blue card is issued by Cardless. Terms change — verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-17"
     }
   ],
-  "last_verified": "2026-10-16"
+  "last_verified": "2026-10-17"
 }
