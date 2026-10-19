@@ -249,7 +249,23 @@
       "rewards_summary": "5% cash back at office supply stores and on internet, cable, and phone services (first $25,000 in combined purchases each account anniversary year, then 1%); 2% cash back at gas stations and restaurants (first $25,000 combined each year, then 1%); 1% cash back on all other purchases. 3% foreign transaction fee.",
       "note": "Business card — eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "last_verified": "2026-10-18"
+    },
+    {
+      "id": "citi-strata-premier",
+      "name": "Citi Strata Premier",
+      "issuer": "Citi",
+      "annual_fee": "$95",
+      "best_for": [
+        "travel",
+        "dining",
+        "groceries",
+        "gas",
+        "transfer partners"
+      ],
+      "rewards_summary": "Earn 10 ThankYou points per $1 on hotels, car rentals, and attractions booked through Citi Travel; 3 points per $1 on air travel and other hotel purchases, at restaurants, supermarkets, and at gas and EV charging stations (uncapped); 1 point per $1 on all other purchases. Includes a $100 annual hotel benefit on a single $500+ hotel stay booked via Citi Travel. No foreign transaction fees.",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-19"
     }
   ],
-  "last_verified": "2026-10-18"
+  "last_verified": "2026-10-19"
 }
