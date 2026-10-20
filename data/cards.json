@@ -265,6 +265,22 @@
       "rewards_summary": "Earn 10 ThankYou points per $1 on hotels, car rentals, and attractions booked through Citi Travel; 3 points per $1 on air travel and other hotel purchases, at restaurants, supermarkets, and at gas and EV charging stations (uncapped); 1 point per $1 on all other purchases. Includes a $100 annual hotel benefit on a single $500+ hotel stay booked via Citi Travel. No foreign transaction fees.",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "last_verified": "2026-10-19"
+    },
+    {
+      "id": "chase-freedom-flex",
+      "name": "Chase Freedom Flex",
+      "issuer": "Chase",
+      "annual_fee": "$0",
+      "best_for": [
+        "rotating categories",
+        "dining",
+        "drugstores",
+        "travel",
+        "no annual fee"
+      ],
+      "rewards_summary": "Earn 5% cash back on rotating quarterly bonus categories (up to $1,500 in combined purchases per quarter; activation required each quarter); 5% cash back on travel booked through Chase Travel; 3% cash back on dining and drugstore purchases; 1% cash back on all other purchases. No foreign transaction fees (removed 2026). Rewards are Chase Ultimate Rewards points redeemable as cash back.",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-20"
     }
   ],
   "last_verified": "2026-10-19"
