@@ -104,6 +104,20 @@
       ],
       "note": "Active Investing offers $0 commissions on stocks and ETFs, no account minimum, and fractional shares from $5; taxable, Traditional, Roth, and SEP IRAs available. Light on advanced research and trading tools; margin accounts require $2,000. Verify current terms on the broker's site before opening an account.",
       "last_verified": "2026-10-12"
+    },
+    {
+      "id": "tastytrade",
+      "name": "Tastytrade",
+      "account_minimum": "$0",
+      "stock_etf_commission": "$0",
+      "fractional_shares": "yes",
+      "best_for": [
+        "options traders",
+        "futures traders",
+        "active traders"
+      ],
+      "note": "Options-first broker (owned by IG Group): stocks/ETFs trade at $0; options cost $1 per contract to open (capped at $10 per leg) and $0 to close; futures $1 per contract. No account minimum. US residents only. Verify current terms on the broker's site before opening an account.",
+      "last_verified": "2026-10-21"
     }
   ],
   "last_verified": "2026-10-11"
