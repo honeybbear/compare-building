@@ -281,6 +281,24 @@
       "rewards_summary": "Earn 5% cash back on rotating quarterly bonus categories (up to $1,500 in combined purchases per quarter; activation required each quarter); 5% cash back on travel booked through Chase Travel; 3% cash back on dining and drugstore purchases; 1% cash back on all other purchases. No foreign transaction fees (removed 2026). Rewards are Chase Ultimate Rewards points redeemable as cash back.",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "last_verified": "2026-10-20"
+    },
+    {
+      "id": "wells-fargo-autograph",
+      "name": "Wells Fargo Autograph Card",
+      "issuer": "Wells Fargo",
+      "annual_fee": "$0",
+      "best_for": [
+        "dining",
+        "travel",
+        "gas",
+        "transit",
+        "streaming",
+        "phone plans",
+        "no annual fee"
+      ],
+      "rewards_summary": "Earn unlimited 3X points on restaurants, travel, gas stations, transit, popular streaming services, and phone plans; 1X points on all other purchases. No foreign transaction fees.",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-22"
     }
   ],
   "last_verified": "2026-10-19"
