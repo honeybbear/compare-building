@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-15. Card terms change — always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-23. Card terms change — always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -299,6 +299,21 @@
       "rewards_summary": "Earn unlimited 3X points on restaurants, travel, gas stations, transit, popular streaming services, and phone plans; 1X points on all other purchases. No foreign transaction fees.",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "last_verified": "2026-10-22"
+    },
+    {
+      "id": "boa-travel-rewards",
+      "name": "Bank of America Travel Rewards",
+      "issuer": "Bank of America",
+      "annual_fee": "$0",
+      "best_for": [
+        "travel",
+        "no annual fee",
+        "simple rewards",
+        "international travel"
+      ],
+      "rewards_summary": "Unlimited 1.5 points per $1 on all purchases; 3 points per $1 on travel booked through BofA Travel. No foreign transaction fees. Points don't expire while the account is open. BofA Rewards members can earn 25-75% more points per dollar.",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "last_verified": "2026-10-23"
     }
   ],
   "last_verified": "2026-10-19"
