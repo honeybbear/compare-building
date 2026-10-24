@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-23. Card terms change — always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-24. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -107,9 +107,6 @@
       "rewards_summary": "4X points at restaurants and U.S. supermarkets."
     },
     {
-      "id": "amex-blue-cash-preferred",
-      "name": "Amex Blue Cash Preferred",
-      "issuer": "American Express",
       "annual_fee": "$0 intro first year, then $95",
       "best_for": [
         "groceries",
@@ -117,9 +114,12 @@
         "cash back",
         "gas"
       ],
-      "rewards_summary": "6% back at U.S. supermarkets on up to $6,000/year in purchases (then 1%), 6% on select U.S. streaming, 3% at U.S. gas stations and on transit, 1% elsewhere. Cash back earned as Reward Dollars.",
-      "note": "Verify current terms on the issuer's site before applying. Intro offers omitted as they change often.",
+      "id": "amex-blue-cash-preferred",
+      "issuer": "American Express",
       "last_verified": "2026-10-07",
+      "name": "Amex Blue Cash Preferred",
+      "note": "Verify current terms on the issuer's site before applying. Intro offers omitted as they change often.",
+      "rewards_summary": "6% back at U.S. supermarkets on up to $6,000/year in purchases (then 1%), 6% on select U.S. streaming, 3% at U.S. gas stations and on transit, 1% elsewhere. Cash back earned as Reward Dollars.",
       "sources": [
         "fool.com (Blue Cash Preferred review, Sep 2026)",
         "bestmoney.com (review, Sep 2026)",
@@ -127,62 +127,59 @@
       ]
     },
     {
-      "id": "capital-one-venture-x",
-      "name": "Capital One Venture X",
-      "issuer": "Capital One",
       "annual_fee": "$395",
-      "rewards_summary": "2X miles on all purchases; 10X miles on hotels and rental cars and 5X miles on flights and vacation rentals booked through Capital One Travel. Includes a $300 annual Capital One Travel credit and 10,000 bonus miles each account anniversary.",
       "best_for": [
         "travel",
         "lounges",
         "flat-rate miles"
       ],
-      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying."
+      "id": "capital-one-venture-x",
+      "issuer": "Capital One",
+      "name": "Capital One Venture X",
+      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2X miles on all purchases; 10X miles on hotels and rental cars and 5X miles on flights and vacation rentals booked through Capital One Travel. Includes a $300 annual Capital One Travel credit and 10,000 bonus miles each account anniversary."
     },
     {
-      "id": "chase-sapphire-reserve",
-      "name": "Chase Sapphire Reserve",
-      "issuer": "Chase",
       "annual_fee": "$795",
-      "rewards_summary": "8X points on travel booked through Chase Travel; 4X points on flights and hotels booked direct; 3X points on dining worldwide. $300 annual travel credit, up to $500 annual Edit by Chase Travel hotel credit (up to $250 per prepaid 2-night booking), Priority Pass Select + Chase Sapphire Lounge access (enrollment required).",
       "best_for": [
         "luxury travel",
         "lounges",
         "high spenders"
       ],
-      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying. High fee only pencils out if you use the major credits; verify against your own travel habits."
+      "id": "chase-sapphire-reserve",
+      "issuer": "Chase",
+      "name": "Chase Sapphire Reserve",
+      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. High fee only pencils out if you use the major credits; verify against your own travel habits.",
+      "rewards_summary": "8X points on travel booked through Chase Travel; 4X points on flights and hotels booked direct; 3X points on dining worldwide. $300 annual travel credit, up to $500 annual Edit by Chase Travel hotel credit (up to $250 per prepaid 2-night booking), Priority Pass Select + Chase Sapphire Lounge access (enrollment required)."
     },
     {
-      "id": "citi-custom-cash",
-      "name": "Citi Custom Cash Card",
-      "issuer": "Citi",
       "annual_fee": "$0",
-      "rewards_summary": "5% cash back on purchases in your top eligible spend category each billing cycle (up to the first $500 spent, then 1%); 1% cash back on all other purchases. No categories to pick or activate — the card adjusts automatically. Earns ThankYou points.",
       "best_for": [
         "cash back",
         "no annual fee",
         "automatic categories"
       ],
-      "note": "Intro offers omitted as too volatile — verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
-      "last_verified": "2026-10-10"
+      "id": "citi-custom-cash",
+      "issuer": "Citi",
+      "last_verified": "2026-10-10",
+      "name": "Citi Custom Cash Card",
+      "note": "Intro offers omitted as too volatile \u2014 verify current terms on the issuer's site before applying. The 5% only applies to one category per cycle, capped at $500 in spend.",
+      "rewards_summary": "5% cash back on purchases in your top eligible spend category each billing cycle (up to the first $500 spent, then 1%); 1% cash back on all other purchases. No categories to pick or activate \u2014 the card adjusts automatically. Earns ThankYou points."
     },
     {
-      "id": "capital-one-savor",
-      "name": "Capital One Savor",
-      "issuer": "Capital One",
       "annual_fee": "$0",
       "best_for": [
         "dining",
         "groceries",
         "entertainment"
       ],
-      "rewards_summary": "3% back on dining, groceries (excluding superstores), entertainment, and popular streaming services; 5% on hotels and rental cars booked through Capital One Travel; 8% on Capital One Entertainment purchases; 1% on all other purchases. No foreign transaction fees.",
-      "note": "Verify current terms on the issuer's site before applying."
+      "id": "capital-one-savor",
+      "issuer": "Capital One",
+      "name": "Capital One Savor",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "3% back on dining, groceries (excluding superstores), entertainment, and popular streaming services; 5% on hotels and rental cars booked through Capital One Travel; 8% on Capital One Entertainment purchases; 1% on all other purchases. No foreign transaction fees."
     },
     {
-      "id": "bofa-customized-cash",
-      "name": "Bank of America Customized Cash Rewards",
-      "issuer": "Bank of America",
       "annual_fee": "$0",
       "best_for": [
         "cash back",
@@ -191,40 +188,40 @@
         "flexible categories",
         "no annual fee"
       ],
-      "rewards_summary": "3% back in one category you choose each month (gas/EV charging, online shopping, dining, travel, drug stores, or home improvement); 2% at grocery stores and wholesale clubs; 1% on everything else. 3%/2% tiers capped at $2,500 in combined quarterly spending.",
+      "id": "bofa-customized-cash",
+      "issuer": "Bank of America",
+      "last_verified": "2026-10-14",
+      "name": "Bank of America Customized Cash Rewards",
       "note": "Verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-14"
+      "rewards_summary": "3% back in one category you choose each month (gas/EV charging, online shopping, dining, travel, drug stores, or home improvement); 2% at grocery stores and wholesale clubs; 1% on everything else. 3%/2% tiers capped at $2,500 in combined quarterly spending."
     },
     {
-      "id": "capital-one-quicksilver",
-      "name": "Capital One Quicksilver",
-      "issuer": "Capital One",
       "annual_fee": "$0",
       "best_for": [
         "cash back",
         "no annual fee",
         "simplicity"
       ],
-      "rewards_summary": "Unlimited 1.5% cash back on every purchase; 5% on hotels, vacation rentals, and rental cars booked through Capital One Travel. No foreign transaction fees.",
-      "note": "Verify current terms on the issuer's site before applying."
+      "id": "capital-one-quicksilver",
+      "issuer": "Capital One",
+      "name": "Capital One Quicksilver",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Unlimited 1.5% cash back on every purchase; 5% on hotels, vacation rentals, and rental cars booked through Capital One Travel. No foreign transaction fees."
     },
     {
-      "id": "us-bank-cash-plus",
-      "name": "U.S. Bank Cash+ Visa Signature",
-      "issuer": "U.S. Bank",
       "annual_fee": "$0",
       "best_for": [
         "cash back",
         "no annual fee",
         "custom categories"
       ],
-      "rewards_summary": "Earn 5% cash back on two categories you choose each quarter (first $2,000 in combined purchases per quarter; quarterly enrollment required), 2% on one everyday category such as gas/EV charging, grocery, or restaurants, and 1% on everything else. 5% also on prepaid travel booked through the U.S. Bank Rewards Center.",
-      "note": "Verify current terms on the issuer's site before applying."
+      "id": "us-bank-cash-plus",
+      "issuer": "U.S. Bank",
+      "name": "U.S. Bank Cash+ Visa Signature",
+      "note": "Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Earn 5% cash back on two categories you choose each quarter (first $2,000 in combined purchases per quarter; quarterly enrollment required), 2% on one everyday category such as gas/EV charging, grocery, or restaurants, and 1% on everything else. 5% also on prepaid travel booked through the U.S. Bank Rewards Center."
     },
     {
-      "id": "bilt-blue",
-      "name": "Bilt Blue Card",
-      "issuer": "Cardless",
       "annual_fee": "$0",
       "best_for": [
         "renters",
@@ -232,28 +229,28 @@
         "no annual fee",
         "transfer partners"
       ],
-      "rewards_summary": "1x Bilt points on everyday purchases, with an option to earn 4% Bilt Cash on non-housing spending instead. Earn up to 1.25x Bilt points on rent, mortgage, and HOA payments made through the Bilt app with no transaction fee (rate scales with everyday card spending). Bilt points transfer to airline and hotel partners. No foreign transaction fees.",
-      "note": "The original Bilt Mastercard (Wells Fargo) was retired in February 2026; the current Blue card is issued by Cardless. Terms change — verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-17"
+      "id": "bilt-blue",
+      "issuer": "Cardless",
+      "last_verified": "2026-10-17",
+      "name": "Bilt Blue Card",
+      "note": "The original Bilt Mastercard (Wells Fargo) was retired in February 2026; the current Blue card is issued by Cardless. Terms change \u2014 verify current terms on the issuer's site before applying.",
+      "rewards_summary": "1x Bilt points on everyday purchases, with an option to earn 4% Bilt Cash on non-housing spending instead. Earn up to 1.25x Bilt points on rent, mortgage, and HOA payments made through the Bilt app with no transaction fee (rate scales with everyday card spending). Bilt points transfer to airline and hotel partners. No foreign transaction fees."
     },
     {
-      "id": "chase-ink-business-cash",
-      "name": "Chase Ink Business Cash",
-      "issuer": "Chase",
       "annual_fee": "$0",
       "best_for": [
         "business",
         "office supplies",
         "telecom"
       ],
-      "rewards_summary": "5% cash back at office supply stores and on internet, cable, and phone services (first $25,000 in combined purchases each account anniversary year, then 1%); 2% cash back at gas stations and restaurants (first $25,000 combined each year, then 1%); 1% cash back on all other purchases. 3% foreign transaction fee.",
-      "note": "Business card — eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-18"
+      "id": "chase-ink-business-cash",
+      "issuer": "Chase",
+      "last_verified": "2026-10-18",
+      "name": "Chase Ink Business Cash",
+      "note": "Business card \u2014 eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "5% cash back at office supply stores and on internet, cable, and phone services (first $25,000 in combined purchases each account anniversary year, then 1%); 2% cash back at gas stations and restaurants (first $25,000 combined each year, then 1%); 1% cash back on all other purchases. 3% foreign transaction fee."
     },
     {
-      "id": "citi-strata-premier",
-      "name": "Citi Strata Premier",
-      "issuer": "Citi",
       "annual_fee": "$95",
       "best_for": [
         "travel",
@@ -262,14 +259,14 @@
         "gas",
         "transfer partners"
       ],
-      "rewards_summary": "Earn 10 ThankYou points per $1 on hotels, car rentals, and attractions booked through Citi Travel; 3 points per $1 on air travel and other hotel purchases, at restaurants, supermarkets, and at gas and EV charging stations (uncapped); 1 point per $1 on all other purchases. Includes a $100 annual hotel benefit on a single $500+ hotel stay booked via Citi Travel. No foreign transaction fees.",
+      "id": "citi-strata-premier",
+      "issuer": "Citi",
+      "last_verified": "2026-10-19",
+      "name": "Citi Strata Premier",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-19"
+      "rewards_summary": "Earn 10 ThankYou points per $1 on hotels, car rentals, and attractions booked through Citi Travel; 3 points per $1 on air travel and other hotel purchases, at restaurants, supermarkets, and at gas and EV charging stations (uncapped); 1 point per $1 on all other purchases. Includes a $100 annual hotel benefit on a single $500+ hotel stay booked via Citi Travel. No foreign transaction fees."
     },
     {
-      "id": "chase-freedom-flex",
-      "name": "Chase Freedom Flex",
-      "issuer": "Chase",
       "annual_fee": "$0",
       "best_for": [
         "rotating categories",
@@ -278,14 +275,14 @@
         "travel",
         "no annual fee"
       ],
-      "rewards_summary": "Earn 5% cash back on rotating quarterly bonus categories (up to $1,500 in combined purchases per quarter; activation required each quarter); 5% cash back on travel booked through Chase Travel; 3% cash back on dining and drugstore purchases; 1% cash back on all other purchases. No foreign transaction fees (removed 2026). Rewards are Chase Ultimate Rewards points redeemable as cash back.",
+      "id": "chase-freedom-flex",
+      "issuer": "Chase",
+      "last_verified": "2026-10-20",
+      "name": "Chase Freedom Flex",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-20"
+      "rewards_summary": "Earn 5% cash back on rotating quarterly bonus categories (up to $1,500 in combined purchases per quarter; activation required each quarter); 5% cash back on travel booked through Chase Travel; 3% cash back on dining and drugstore purchases; 1% cash back on all other purchases. No foreign transaction fees (removed 2026). Rewards are Chase Ultimate Rewards points redeemable as cash back."
     },
     {
-      "id": "wells-fargo-autograph",
-      "name": "Wells Fargo Autograph Card",
-      "issuer": "Wells Fargo",
       "annual_fee": "$0",
       "best_for": [
         "dining",
@@ -296,14 +293,14 @@
         "phone plans",
         "no annual fee"
       ],
-      "rewards_summary": "Earn unlimited 3X points on restaurants, travel, gas stations, transit, popular streaming services, and phone plans; 1X points on all other purchases. No foreign transaction fees.",
+      "id": "wells-fargo-autograph",
+      "issuer": "Wells Fargo",
+      "last_verified": "2026-10-22",
+      "name": "Wells Fargo Autograph Card",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-22"
+      "rewards_summary": "Earn unlimited 3X points on restaurants, travel, gas stations, transit, popular streaming services, and phone plans; 1X points on all other purchases. No foreign transaction fees."
     },
     {
-      "id": "boa-travel-rewards",
-      "name": "Bank of America Travel Rewards",
-      "issuer": "Bank of America",
       "annual_fee": "$0",
       "best_for": [
         "travel",
@@ -311,9 +308,29 @@
         "simple rewards",
         "international travel"
       ],
-      "rewards_summary": "Unlimited 1.5 points per $1 on all purchases; 3 points per $1 on travel booked through BofA Travel. No foreign transaction fees. Points don't expire while the account is open. BofA Rewards members can earn 25-75% more points per dollar.",
+      "id": "boa-travel-rewards",
+      "issuer": "Bank of America",
+      "last_verified": "2026-10-23",
+      "name": "Bank of America Travel Rewards",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
-      "last_verified": "2026-10-23"
+      "rewards_summary": "Unlimited 1.5 points per $1 on all purchases; 3 points per $1 on travel booked through BofA Travel. No foreign transaction fees. Points don't expire while the account is open. BofA Rewards members can earn 25-75% more points per dollar."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "dining",
+        "takeout",
+        "streaming",
+        "groceries",
+        "gas",
+        "no annual fee"
+      ],
+      "id": "us-bank-altitude-go",
+      "issuer": "U.S. Bank",
+      "last_verified": "2026-10-24",
+      "name": "U.S. Bank Altitude Go Visa Signature",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Earn 4X points on dining, takeout, and restaurant delivery on the first $2,000 each quarter; 2X points at grocery stores, gas stations, EV charging stations, and on streaming services; 1X point on all other eligible purchases; $15 annual streaming credit."
     }
   ],
   "last_verified": "2026-10-19"
