@@ -118,6 +118,20 @@
       ],
       "note": "Options-first broker (owned by IG Group): stocks/ETFs trade at $0; options cost $1 per contract to open (capped at $10 per leg) and $0 to close; futures $1 per contract. No account minimum. US residents only. Verify current terms on the broker's site before opening an account.",
       "last_verified": "2026-10-21"
+    },
+    {
+      "id": "jpmorgan-self-directed",
+      "name": "J.P. Morgan Self-Directed Investing",
+      "account_minimum": "$0",
+      "stock_etf_commission": "$0",
+      "fractional_shares": "yes (from $5)",
+      "best_for": [
+        "beginners",
+        "Chase banking customers",
+        "retirement"
+      ],
+      "note": "Chase-integrated brokerage: $0 commission online stock/ETF trades, no account minimum, and fractional shares from $5 (S&P 500 and Nasdaq-100 stocks plus select ETFs). Intro/funding bonuses omitted as they change often. Verify current terms on the broker's site before opening an account.",
+      "last_verified": "2026-10-25"
     }
   ],
   "last_verified": "2026-10-11"
