@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-24. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-10-27. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -331,7 +331,22 @@
       "name": "U.S. Bank Altitude Go Visa Signature",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "Earn 4X points on dining, takeout, and restaurant delivery on the first $2,000 each quarter; 2X points at grocery stores, gas stations, EV charging stations, and on streaming services; 1X point on all other eligible purchases; $15 annual streaming credit."
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "travel",
+        "miles",
+        "no annual fee",
+        "transfer partners"
+      ],
+      "id": "capital-one-ventureone",
+      "issuer": "Capital One",
+      "last_verified": "2026-10-27",
+      "name": "Capital One VentureOne Rewards",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Earn unlimited 1.25X miles on every purchase; 5X miles on hotels, vacation rentals, and rental cars booked through Capital One Travel; no foreign transaction fees; miles transfer to airline and hotel partners."
     }
   ],
-  "last_verified": "2026-10-19"
+  "last_verified": "2026-10-27"
 }
