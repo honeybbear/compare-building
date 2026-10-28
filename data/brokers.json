@@ -146,6 +146,20 @@
       ],
       "note": "Bank of America-integrated brokerage: unlimited $0 online stock, ETF and option trades with no trade or balance minimums and no annual account fee (options contract fees apply). No fractional shares. Intro/funding bonuses omitted as they change often. Verify current terms on the broker's site before opening an account.",
       "last_verified": "2026-10-26"
+    },
+    {
+      "id": "ally-invest",
+      "name": "Ally Invest",
+      "account_minimum": "$0",
+      "stock_etf_commission": "$0",
+      "fractional_shares": "no",
+      "best_for": [
+        "beginners",
+        "Ally Bank customers",
+        "self-directed traders"
+      ],
+      "note": "Ally Bank-integrated brokerage: $0 commission on most U.S.-listed stocks and ETFs, no account minimum, and no fractional shares. Options are $0.50 per contract. Intro/funding bonuses omitted as they change often. Verify current terms on the broker's site before opening an account.",
+      "last_verified": "2026-10-28"
     }
   ],
   "last_verified": "2026-10-11"
