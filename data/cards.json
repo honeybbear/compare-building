@@ -346,6 +346,20 @@
       "name": "Capital One VentureOne Rewards",
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "Earn unlimited 1.25X miles on every purchase; 5X miles on hotels, vacation rentals, and rental cars booked through Capital One Travel; no foreign transaction fees; miles transfer to airline and hotel partners."
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "travel",
+        "dining",
+        "no foreign transaction fees"
+      ],
+      "id": "bank-of-america-premium-rewards",
+      "issuer": "Bank of America",
+      "name": "Bank of America Premium Rewards",
+      "note": "Mid-tier travel card: 2 points per $1 on travel and dining, 1.5 points per $1 on all other purchases, no foreign transaction fees, up to $100 annual airline incidental statement credit. Intro bonus omitted as it changes often. Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2 points per $1 on travel and dining; 1.5 points per $1 on all other purchases, unlimited.",
+      "last_verified": "2026-10-29"
     }
   ],
   "last_verified": "2026-10-27"
