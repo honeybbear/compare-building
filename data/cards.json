@@ -360,6 +360,21 @@
       "note": "Mid-tier travel card: 2 points per $1 on travel and dining, 1.5 points per $1 on all other purchases, no foreign transaction fees, up to $100 annual airline incidental statement credit. Intro bonus omitted as it changes often. Verify current terms on the issuer's site before applying.",
       "rewards_summary": "2 points per $1 on travel and dining; 1.5 points per $1 on all other purchases, unlimited.",
       "last_verified": "2026-10-29"
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "travel",
+        "miles",
+        "no annual fee",
+        "no foreign transaction fees"
+      ],
+      "id": "discover-it-miles",
+      "issuer": "Discover",
+      "name": "Discover it Miles",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Unlimited 1.5 miles per $1 on every purchase; miles redeem at a fixed 1 cent each toward travel purchases or as cash back; no foreign transaction fees.",
+      "last_verified": "2026-10-30"
     }
   ],
   "last_verified": "2026-10-27"
