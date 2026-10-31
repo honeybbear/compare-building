@@ -160,6 +160,20 @@
       ],
       "note": "Ally Bank-integrated brokerage: $0 commission on most U.S.-listed stocks and ETFs, no account minimum, and no fractional shares. Options are $0.50 per contract. Intro/funding bonuses omitted as they change often. Verify current terms on the broker's site before opening an account.",
       "last_verified": "2026-10-28"
+    },
+    {
+      "account_minimum": "$0",
+      "stock_etf_commission": "$0",
+      "fractional_shares": "yes",
+      "id": "public",
+      "name": "Public",
+      "best_for": [
+        "beginners",
+        "fractional investing",
+        "bonds"
+      ],
+      "note": "Multi-asset brokerage: $0 commission on U.S.-listed stocks and ETFs, no account minimum, fractional shares from $5 for stocks, plus bonds, options, and crypto. Verify current terms on the broker's site before opening an account.",
+      "last_verified": "2026-10-31"
     }
   ],
   "last_verified": "2026-10-11"
