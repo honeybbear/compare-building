@@ -375,6 +375,21 @@
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "Unlimited 1.5 miles per $1 on every purchase; miles redeem at a fixed 1 cent each toward travel purchases or as cash back; no foreign transaction fees.",
       "last_verified": "2026-10-30"
+    },
+    {
+      "annual_fee": "$39",
+      "best_for": [
+        "dining",
+        "groceries",
+        "entertainment",
+        "streaming"
+      ],
+      "id": "capital-one-savorone",
+      "issuer": "Capital One",
+      "name": "Capital One SavorOne",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Unlimited 3% cash back at grocery stores (excluding superstores), on dining, entertainment, and popular streaming services; 5% on hotels, vacation rentals, and rental cars booked through Capital One Travel; 8% on Capital One Entertainment purchases; 1% on all other purchases; no foreign transaction fees.",
+      "last_verified": "2026-11-01"
     }
   ],
   "last_verified": "2026-10-27"
