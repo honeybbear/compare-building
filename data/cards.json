@@ -404,6 +404,20 @@
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "Unlimited 1.5% cash back on all purchases, with no cap and no bonus categories to track; cash rewards do not expire as long as the account remains open; no annual fee.",
       "last_verified": "2026-11-02"
+    },
+    {
+      "annual_fee": "$895",
+      "best_for": [
+        "travel",
+        "points",
+        "airport lounges"
+      ],
+      "id": "amex-platinum",
+      "issuer": "American Express",
+      "name": "American Express Platinum Card",
+      "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "5x Membership Rewards points on flights booked directly with airlines or through American Express Travel, on up to $500,000 of these purchases per calendar year; 5x points on prepaid hotels booked through American Express Travel; 1x point on other purchases; access to the Global Lounge Collection including Centurion Lounges and Priority Pass membership (enrollment required).",
+      "last_verified": "2026-11-03"
     }
   ],
   "last_verified": "2026-10-27"
