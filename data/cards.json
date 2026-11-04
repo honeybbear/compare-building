@@ -253,6 +253,22 @@
     {
       "annual_fee": "$95",
       "best_for": [
+        "business",
+        "travel",
+        "advertising",
+        "shipping",
+        "transfer partners"
+      ],
+      "id": "chase-ink-business-preferred",
+      "issuer": "Chase",
+      "last_verified": "2026-11-04",
+      "name": "Chase Ink Business Preferred",
+      "note": "Business card — eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "3x Ultimate Rewards points per $1 on the first $150,000 in combined purchases each account anniversary year across travel, shipping purchases, internet, cable and phone services, and advertising purchases made with social media sites and search engines; 1x point per $1 on all other purchases. Points transfer to Chase airline and hotel partners. No foreign transaction fees."
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
         "travel",
         "dining",
         "groceries",
