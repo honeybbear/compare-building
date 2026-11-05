@@ -267,6 +267,21 @@
       "rewards_summary": "3x Ultimate Rewards points per $1 on the first $150,000 in combined purchases each account anniversary year across travel, shipping purchases, internet, cable and phone services, and advertising purchases made with social media sites and search engines; 1x point per $1 on all other purchases. Points transfer to Chase airline and hotel partners. No foreign transaction fees."
     },
     {
+      "annual_fee": "$0",
+      "best_for": [
+        "business",
+        "cash back",
+        "flat rate",
+        "simplicity"
+      ],
+      "id": "chase-ink-business-unlimited",
+      "issuer": "Chase",
+      "last_verified": "2026-11-05",
+      "name": "Chase Ink Business Unlimited",
+      "note": "Business card — eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Unlimited 1.5% cash back on every purchase made for your business, with no categories to track and no caps; 5% cash back on Lyft rides through September 30, 2027. Rewards are Chase Ultimate Rewards points worth 1 cent each as cash back, and can be combined with other Chase cards. 3% foreign transaction fee."
+    },
+    {
       "annual_fee": "$95",
       "best_for": [
         "travel",
