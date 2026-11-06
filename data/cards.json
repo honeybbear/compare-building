@@ -449,6 +449,21 @@
       "note": "Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "5x Membership Rewards points on flights booked directly with airlines or through American Express Travel, on up to $500,000 of these purchases per calendar year; 5x points on prepaid hotels booked through American Express Travel; 1x point on other purchases; access to the Global Lounge Collection including Centurion Lounges and Priority Pass membership (enrollment required).",
       "last_verified": "2026-11-03"
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "business",
+        "points",
+        "flat rate",
+        "transfer partners"
+      ],
+      "id": "amex-blue-business-plus",
+      "issuer": "American Express",
+      "name": "American Express Blue Business Plus",
+      "note": "Business card \u2014 eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2x Membership Rewards points on every purchase, on the first $50,000 in purchases per calendar year, then 1x point per dollar; points transfer to airline and hotel partners. 2.7% foreign transaction fee; no annual fee, including for employee cards.",
+      "last_verified": "2026-11-06"
     }
   ],
   "last_verified": "2026-10-27"
