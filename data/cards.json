@@ -464,6 +464,21 @@
       "note": "Business card \u2014 eligibility is a business of any size, including sole proprietors. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "2x Membership Rewards points on every purchase, on the first $50,000 in purchases per calendar year, then 1x point per dollar; points transfer to airline and hotel partners. 2.7% foreign transaction fee; no annual fee, including for employee cards.",
       "last_verified": "2026-11-06"
+    },
+    {
+      "annual_fee": "$150 ($0 first year)",
+      "best_for": [
+        "airline miles",
+        "dining",
+        "groceries",
+        "travel"
+      ],
+      "id": "delta-skymiles-gold-amex",
+      "issuer": "American Express",
+      "name": "Delta SkyMiles Gold American Express Card",
+      "note": "First airline co-brand card in the catalog. $0 introductory annual fee for the first year, then $150. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2x miles on Delta purchases, at restaurants worldwide (including takeout and delivery in the U.S.), and at U.S. supermarkets; 1x mile on all other purchases. First checked bag free on Delta flights for the cardholder and up to 8 companions on the same reservation; second checked bag free on domestic Delta flights for the cardholder. No foreign transaction fee; 15% off Delta award flights (TakeOff 15).",
+      "last_verified": "2026-11-08"
     }
   ],
   "last_verified": "2026-10-27"
