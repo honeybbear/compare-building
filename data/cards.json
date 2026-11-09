@@ -479,6 +479,20 @@
       "note": "First airline co-brand card in the catalog. $0 introductory annual fee for the first year, then $150. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "2x miles on Delta purchases, at restaurants worldwide (including takeout and delivery in the U.S.), and at U.S. supermarkets; 1x mile on all other purchases. First checked bag free on Delta flights for the cardholder and up to 8 companions on the same reservation; second checked bag free on domestic Delta flights for the cardholder. No foreign transaction fee; 15% off Delta award flights (TakeOff 15).",
       "last_verified": "2026-11-08"
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "credit building",
+        "no annual fee",
+        "beginners"
+      ],
+      "id": "capital-one-platinum",
+      "issuer": "Capital One",
+      "name": "Capital One Platinum Credit Card",
+      "note": "First credit-builder card in the catalog. No rewards and no intro offer; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "No rewards. Unsecured card designed to build or rebuild credit: $0 annual fee, no foreign transaction fee, no security deposit, reports to all three major credit bureaus, and automatic consideration for a higher credit line in as little as 6 months with responsible use.",
+      "last_verified": "2026-11-09"
     }
   ],
   "last_verified": "2026-10-27"
