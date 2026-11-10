@@ -1,17 +1,10 @@
 {
-  "fetched_at": "2026-11-10T14:32:44Z",
+  "fetched_at": "2026-11-10T14:46:48Z",
   "sources": [
     "Google News RSS",
     "Hacker News API"
   ],
   "topics": [
-    {
-      "title": "3 Credit Card Bonuses Worth $750 or More That You Can Earn in November 2026 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWhEb21tdG1FMDhtMXFhZ2ZzWDdmbWhEZU5mX1BxeC0xR0dWa1JNRFNRcDI3MFlXSWhfTU1HTC1Fa3M3WmFCc3NNeGlSWHdBNUZzMHhDXzhMT1lvc0RScExhNVZNNDNFSGxzUjhlMkg3b0w1bDd6NVVNSEhGdVlTZGsxQkFkN2FUaDFrQjh1VmRLSEg5X1RKV1BmekJlNUFsSmRoUXVaYW1URThyZXdYZExJY09QVzUza1dHN2h0MlV1Zw?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 10 Nov 2026 12:33:47 GMT",
-      "query": "best credit cards 2026"
-    },
     {
       "title": "The credit cards that deliver the most value right now, according to a rewards expert - CNN",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81WWo0S2tFczRidHNMWmZPcFFtSGhabWtHczFCaWZWdG5UNTNNYTBBWXpGQUU2OGR1a0Z5Q2VDVnktc2gtUnFLWmpOXzU5REdoT0c1VF9xWmFEUTNQaDBSZ0xvd21XRVpHQUt3?oc=5",
@@ -24,6 +17,13 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSHctOFBmRDQzNWUwQkllLTctNjZuVzZpa2lfZjU0X2tPT1RzblpXOWJJYjBtcks5V1pKN1l4V3AyVkhoTVhBbVFwMFBmdEZyZDQyZ0JwR2JXNnF5eUoyZXBDSnJGcW_SAWxBVV95cUxNM3BXYU41NF9rdllKU0VkcDRFRENLbGVQTUVkWEVTb2lQSGN6YUtBdGFBS0lqakdUaU56VVpTQVZTN0duekktT0d6NVY2RkdRQlh4UDVsN2JRbmktTm1NOGhqcTFnMGVscTJSVnY?oc=5",
       "source": "CNBC",
       "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "3 Credit Card Bonuses Worth $750 or More That You Can Earn in November 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWhEb21tdG1FMDhtMXFhZ2ZzWDdmbWhEZU5mX1BxeC0xR0dWa1JNRFNRcDI3MFlXSWhfTU1HTC1Fa3M3WmFCc3NNeGlSWHdBNUZzMHhDXzhMT1lvc0RScExhNVZNNDNFSGxzUjhlMkg3b0w1bDd6NVVNSEhGdVlTZGsxQkFkN2FUaDFrQjh1VmRLSEg5X1RKV1BmekJlNUFsSmRoUXVaYW1URThyZXdYZExJY09QVzUza1dHN2h0MlV1Zw?oc=5",
+      "source": "The Motley Fool",
+      "published": "Tue, 10 Nov 2026 12:33:47 GMT",
       "query": "best credit cards 2026"
     },
     {
@@ -90,17 +90,17 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "TPG is building for the future - The Points Guy",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4RXl6c2huS3UtVnlOWFdETTJBSjBJZmVCUzJFZzJYRjdDNzBvdzNvdVhGOHZaak95cHZjbXFfdDF3Uk0zU0lvSXAtOFRuQjJ1Q3VuNEt5cw?oc=5",
-      "source": "The Points Guy",
-      "published": "Tue, 10 Nov 2026 11:13:45 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
       "title": "Best Cash Back Credit Cards of 2026: Earn up to 6% Back - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVFJiOGlpbDFoV0FuTzBrT0lOaEtwb2xYQTNWbzdYd1VNZE9Jd1hMSkU5cDZkMHFHajZuZE9kVGVZSkVoYWQyVGphbU02b3E2WndGNEo3cVFMZkhhdHZQV0FfSk5ENndwb2lQeXhZLVhiT005bFN3?oc=5",
       "source": "The Motley Fool",
       "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "query": "best cash back credit cards"
+    },
+    {
+      "title": "Sneak peek: You can now book Frontier's new first-class seats - The Points Guy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHpRTkpGeDdRV2dacURQdEJjeFk4RmpDMGR3RmY3Q0llZ1haVUNBeUJhYU1qdTY4dm11WXc3TndBNGcwaVJSMlZDUWlCWF9uRFJhVmxmUTRxRWwtRlF5LVNFREJKSDFITndLTWxjazVmcXlQU1RmMlprRHljai1LNDliS3FZZw?oc=5",
+      "source": "The Points Guy",
+      "published": "Tue, 10 Nov 2026 14:12:19 GMT",
       "query": "best cash back credit cards"
     },
     {
@@ -167,13 +167,6 @@
       "query": "best brokerage account"
     },
     {
-      "title": "Elev8 broker receives 'Most Innovative Broker 2026' award from BrokersView - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QbGdDdjU1VVpxZjBfLWcyNURGRW1nLTU0M25OR2xrOHNJRThlTVNSNnI5Y1ZoZGtPSnctXzFLMURFSHRzY0pNVHBEUFVwYVNQcHFJdjFINHFCVmdx?oc=5",
-      "source": "Investing.com",
-      "published": "Sun, 08 Nov 2026 14:44:21 GMT",
-      "query": "best online broker 2026"
-    },
-    {
       "title": "Best Online Stock Brokers for 2026 (Ranked by Survey) - The College Investor",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRc2NzSXdLZ2I2LXpIQ0pLbVB0Yk9yaGh0VXBfZkZLZXV2eWU0ZHctOUNicUtYeXF3T0V0OHR2aVdjTjRORHdlSDQyNjFIR19GZkVXcjM4VnFFcEFBS29URkprV0RERXhfYWp4M2gyZjQ?oc=5",
       "source": "The College Investor",
@@ -181,10 +174,17 @@
       "query": "best online broker 2026"
     },
     {
-      "title": "Finance Magnates Awards 2026: Forex Brokers & Prop Firm Winners - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXk2S1dkTHVXMnM3RUN2bGdiRmtoM2Z3VVlsbUsxWGlyNlZONkx5dzhia1hSWXJmZmxWcElmc0Vsd0RpWTZSVGllbjhhWFFheDh1MnNYV2d2bXpuaS10aTYtQkRWQnE2OHJwZGFKSWhaOUJpa3hmTDNnLWVISkxWNG5qa3BNdEhHbU1EWE5MMmRyLVdRMDVWOGRucTk?oc=5",
-      "source": "investingLive",
-      "published": "Mon, 09 Nov 2026 10:35:36 GMT",
+      "title": "Elev8 broker receives 'Most Innovative Broker 2026' award from BrokersView - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QbGdDdjU1VVpxZjBfLWcyNURGRW1nLTU0M25OR2xrOHNJRThlTVNSNnI5Y1ZoZGtPSnctXzFLMURFSHRzY0pNVHBEUFVwYVNQcHFJdjFINHFCVmdx?oc=5",
+      "source": "Investing.com",
+      "published": "Sun, 08 Nov 2026 14:44:21 GMT",
+      "query": "best online broker 2026"
+    },
+    {
+      "title": "Moomoo Named to Forbes List of “10 Best Online Brokerages for 2026,” Wins Top Honor for Overall Satisfaction - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40OVdqN1VXRDhISDE2R09YYWpDSUVYRWo4R2NOejBzZEdTb0RyUHhTNExFeUc0U1Z5YUl1NXMzaEZ4WU5FcFl0V0lkNEY4dXpMQkhKZnFWRVR5ZlU?oc=5",
+      "source": "Moomoo",
+      "published": "Tue, 21 Jul 2026 17:57:23 GMT",
       "query": "best online broker 2026"
     }
   ],
