@@ -493,6 +493,20 @@
       "note": "First credit-builder card in the catalog. No rewards and no intro offer; verify current terms on the issuer's site before applying.",
       "rewards_summary": "No rewards. Unsecured card designed to build or rebuild credit: $0 annual fee, no foreign transaction fee, no security deposit, reports to all three major credit bureaus, and automatic consideration for a higher credit line in as little as 6 months with responsible use.",
       "last_verified": "2026-11-09"
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "hotel stays",
+        "travel",
+        "points"
+      ],
+      "id": "marriott-bonvoy-boundless",
+      "issuer": "Chase",
+      "name": "Marriott Bonvoy Boundless Credit Card",
+      "note": "First hotel co-brand card in the catalog. $95 annual fee, not waived the first year. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "6x points at Marriott Bonvoy hotels; 3x on the first $6,000 in combined annual spending at grocery stores, gas stations, and dining; 2x on all other purchases. Anniversary Free Night Award for a one-night stay at a property with a redemption level up to 35,000 points; automatic Marriott Bonvoy Silver Elite status and 15 Elite Night Credits each year; no foreign transaction fee.",
+      "last_verified": "2026-11-10"
     }
   ],
   "last_verified": "2026-10-27"

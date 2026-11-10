@@ -31,7 +31,7 @@ const FLOORS = [
     {id: "C-1", name: "Ranker", task: "Sorts and filters tables by fee, rewards, and best-for tags.",
      from: [["D-2 · Tables", "comparison tables"]], to: [["M-1 · Linker", "ranked products"]],
      reasoning: "The right filter answers the visitor's question faster than ten open tabs."},
-    {id: "C-2", name: "Quizmaster", task: "Runs the 'best for X' quiz: cash back vs travel vs no annual fee vs building credit.",
+    {id: "C-2", name: "Quizmaster", task: "Runs the 'best for X' quiz: cash back vs travel vs hotel stays vs no annual fee vs building credit.",
      from: [["D-2 · Tables", "comparison tables"]], to: [["visitor", "personalized shortlist"]],
      reasoning: "Three honest answers beat thirty tabs of research."}]},
   {no: "F4", name: "Monetize", dept: "Revenue", color: "#3ddc97", agents: [
@@ -139,7 +139,7 @@ function productSheet(p) {
 
 /* ---------------- quiz ---------------- */
 const QUIZ = [
-  {q: "What matters most to you?", opts: [["Cash back", "cash back"], ["Travel rewards", "travel"], ["No annual fee", "no annual fee"], ["Building my credit", "credit building"]]},
+  {q: "What matters most to you?", opts: [["Cash back", "cash back"], ["Travel rewards", "travel"], ["Hotel stays", "hotel stays"], ["No annual fee", "no annual fee"], ["Building my credit", "credit building"]]},
   {q: "Okay with an annual fee?", opts: [["Yes, if the perks pay off", "fee-ok"], ["No — $0 only", "fee-no"]]},
   {q: "Pick your style", opts: [["Simple flat rewards", "simplicity"], ["Squeeze every category", "rotating categories"], ["Points I can transfer", "transfer partners"]]},
 ];
