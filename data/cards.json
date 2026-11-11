@@ -507,6 +507,21 @@
       "note": "First hotel co-brand card in the catalog. $95 annual fee, not waived the first year. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "6x points at Marriott Bonvoy hotels; 3x on the first $6,000 in combined annual spending at grocery stores, gas stations, and dining; 2x on all other purchases. Anniversary Free Night Award for a one-night stay at a property with a redemption level up to 35,000 points; automatic Marriott Bonvoy Silver Elite status and 15 Elite Night Credits each year; no foreign transaction fee.",
       "last_verified": "2026-11-10"
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "hotel stays",
+        "travel",
+        "points",
+        "no annual fee"
+      ],
+      "id": "hilton-honors-amex",
+      "issuer": "American Express",
+      "name": "Hilton Honors American Express Card",
+      "note": "Second hotel co-brand card in the catalog; the no-annual-fee entry into Hilton's co-brand lineup. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "7x points at hotels and resorts in the Hilton portfolio; 5x at U.S. restaurants, U.S. supermarkets, and U.S. gas stations; 3x on all other purchases. Complimentary Hilton Honors Silver status; no foreign transaction fee.",
+      "last_verified": "2026-11-11"
     }
   ],
   "last_verified": "2026-10-27"
