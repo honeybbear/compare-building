@@ -541,6 +541,25 @@
         "awardwallet.com (IHG Premier review, Nov 2026)",
         "travelsummary.com (IHG Premier review, Nov 2026)"
       ]
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "hotel stays",
+        "travel",
+        "points"
+      ],
+      "id": "world-of-hyatt",
+      "issuer": "Chase",
+      "name": "World of Hyatt Credit Card",
+      "note": "Fourth hotel co-brand card in the catalog; Chase/Hyatt. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "4x points at Hyatt; 2x on dining, airline tickets bought directly, local transit and commuting, and gym memberships; 1x elsewhere. Free night at a Category 1-4 Hyatt every cardmember anniversary, plus a second after $15,000 in calendar-year spend. Automatic World of Hyatt Discoverist status; 5 elite night credits each year plus 2 per $5,000 spent; no foreign transaction fee.",
+      "last_verified": "2026-11-13",
+      "sources": [
+        "travelsummary.com (World of Hyatt Card Review, Nov 2026)",
+        "thepointsparty.com (World of Hyatt Credit Card Review 2026)",
+        "awardtrail.com (World of Hyatt offer, Nov 2026)"
+      ]
     }
   ],
   "last_verified": "2026-10-27"
