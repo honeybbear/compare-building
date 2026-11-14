@@ -560,7 +560,26 @@
         "thepointsparty.com (World of Hyatt Credit Card Review 2026)",
         "awardtrail.com (World of Hyatt offer, Nov 2026)"
       ]
+    },
+    {
+      "annual_fee": "$695",
+      "best_for": [
+        "airline miles",
+        "lounge access",
+        "travel"
+      ],
+      "id": "united-club-card",
+      "issuer": "Chase",
+      "last_verified": "2026-11-14",
+      "name": "United Club Card",
+      "note": "First United co-brand card in the catalog; second airline co-brand after Delta SkyMiles Gold. $695 fee buys a full United Club membership (valued by Chase at $750+/yr) \u2014 the card only makes sense if you would buy the membership anyway. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "5x miles on United purchases (11x total including MileagePlus member miles earned on the fare); 2x on dining and all other travel; 1x elsewhere. Full United Club membership for the cardholder plus one guest at 45+ locations worldwide. Free first and second checked bags for the cardholder and one companion on the same reservation. Up to $120 Global Entry/TSA PreCheck/NEXUS credit every 4 years; 25% back on United inflight purchases; Premier Access travel services; no foreign transaction fee.",
+      "sources": [
+        "financebuzz.com (United Club Card Review 2026)",
+        "thepointsparty.com (The Chase United Card Lineup in 2026)",
+        "maxworth.app (United Credit Cards 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-10-27"
+  "last_verified": "2026-11-14"
 }
