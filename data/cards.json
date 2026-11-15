@@ -579,7 +579,26 @@
         "thepointsparty.com (The Chase United Card Lineup in 2026)",
         "maxworth.app (United Credit Cards 2026)"
       ]
+    },
+    {
+      "annual_fee": "$0",
+      "best_for": [
+        "0% intro APR",
+        "balance transfer",
+        "no annual fee"
+      ],
+      "id": "wells-fargo-reflect",
+      "issuer": "Wells Fargo",
+      "last_verified": "2026-11-15",
+      "name": "Wells Fargo Reflect Card",
+      "note": "First 0%-intro-APR specialist in the catalog and the longest intro window of any card listed (21 months). The Motley Fool's top 0% intro APR pick for November 2026. It earns no rewards and charges a 5% balance-transfer fee, so it only pays off if the balance is cleared before month 21. Verify current terms on the issuer's site before applying.",
+      "rewards_summary": "0% intro APR for 21 months from account opening on purchases and on qualifying balance transfers (transfers must be made within 120 days of opening); then 17.74%, 24.24% or 28.49% variable APR. Balance-transfer fee 5% ($5 minimum). Up to $600 cell-phone protection per claim ($25 deductible, max 2 claims per 12 months) when the phone bill is paid with the card. No rewards; 3% foreign transaction fee.",
+      "sources": [
+        "creditcards.wellsfargo.com (Reflect Visa Credit Card, issuer page)",
+        "fool.com (Our Top 0% Intro APR Card of November 2026, 2026-11-14)",
+        "wsj.com/buyside (Best 0% APR Credit Cards of November 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-14"
+  "last_verified": "2026-11-15"
 }
