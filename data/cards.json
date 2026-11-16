@@ -598,7 +598,26 @@
         "fool.com (Our Top 0% Intro APR Card of November 2026, 2026-11-14)",
         "wsj.com/buyside (Best 0% APR Credit Cards of November 2026)"
       ]
+    },
+    {
+      "annual_fee": "$99",
+      "best_for": [
+        "airline",
+        "southwest",
+        "checked bags"
+      ],
+      "id": "southwest-rapid-rewards-plus",
+      "issuer": "Chase",
+      "last_verified": "2026-11-16",
+      "name": "Southwest Rapid Rewards Plus Credit Card",
+      "note": "First Southwest co-brand in the catalog. The $99 fee (up from $69 in 2026) buys a free first checked bag for the cardholder and up to eight companions plus 3,000 anniversary points each year — the bag perk alone can cover the fee for a family that checks bags. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2x points on Southwest Airlines purchases and on the first $5,000 in combined gas-station and grocery-store purchases per anniversary year; 1x elsewhere. 3,000 anniversary points each year. Free first checked bag for the cardholder and up to eight companions on the same reservation; Group 5 boarding; 10% flight discount each year; 10,000-point boost toward Companion Pass (ends after 2026). No foreign transaction fees. 19.49%-27.99% variable APR.",
+      "sources": [
+        "creditcards.chase.com (Southwest Rapid Rewards Plus, issuer page)",
+        "uscreditcardguide.com (Southwest Rapid Rewards Plus Review, 2026-10-27)",
+        "moneycrashers.com (Southwest Rapid Rewards Plus Review, 2026-10-20)"
+      ]
     }
   ],
-  "last_verified": "2026-11-15"
+  "last_verified": "2026-11-16"
 }
