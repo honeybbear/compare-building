@@ -617,7 +617,26 @@
         "uscreditcardguide.com (Southwest Rapid Rewards Plus Review, 2026-10-27)",
         "moneycrashers.com (Southwest Rapid Rewards Plus Review, 2026-10-20)"
       ]
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "airline",
+        "alaska",
+        "companion fare"
+      ],
+      "id": "atmos-rewards-ascent",
+      "issuer": "Bank of America",
+      "last_verified": "2026-11-17",
+      "name": "Atmos Rewards Ascent Visa Signature",
+      "note": "First Alaska/Hawaiian co-brand in the catalog. In August 2025 this card replaced the Alaska Airlines Visa Signature; same $95 fee, now under the Atmos Rewards program. The annual Companion Fare — a second seat for $99 plus taxes and fees from $23 — is the whole argument, but it only posts after $6,000 in purchases in the prior anniversary year, so the card only pays off if you fly Alaska or Hawaiian with a companion and spend enough to unlock it. The free first checked bag for the cardholder and up to six companions is ungated. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "3x points on Alaska Airlines and Hawaiian Airlines purchases; 2x on gas, EV charging, cable, streaming and local transit; 1x elsewhere. Annual $99 Companion Fare (plus taxes and fees from $23) each anniversary after $6,000 in purchases in the prior anniversary year. Free first checked bag for the cardholder and up to six companions on the same reservation; preferred boarding. 10% points bonus with an eligible Bank of America checking or savings account. No foreign transaction fees.",
+      "sources": [
+        "nerdwallet.com (Atmos Rewards Ascent Review, updated 2026-09-18)",
+        "cardcompass.app (Alaska Airlines Visa Review 2026, updated 2026-11-01)",
+        "roamingcactus.com (Alaska Airlines credit card 2026 review, updated 2026-10-03)"
+      ]
     }
   ],
-  "last_verified": "2026-11-16"
+  "last_verified": "2026-11-17"
 }
