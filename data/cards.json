@@ -636,7 +636,26 @@
         "cardcompass.app (Alaska Airlines Visa Review 2026, updated 2026-11-01)",
         "roamingcactus.com (Alaska Airlines credit card 2026 review, updated 2026-10-03)"
       ]
+    },
+    {
+      "annual_fee": "$99 ($0 first year)",
+      "best_for": [
+          "airline",
+          "american",
+          "checked bag"
+      ],
+      "id": "citi-aadvantage-platinum-select",
+      "issuer": "Citi",
+      "last_verified": "2026-11-18",
+      "name": "Citi AAdvantage Platinum Select World Elite Mastercard",
+      "note": "First American Airlines co-brand in the catalog; Citi took over Barclays' AAdvantage cards in April 2026 and converted Aviator Red accounts to this card. The $99 fee (waived the first year) buys a free first checked bag for the cardholder and up to four companions on domestic American itineraries \u2014 the bag perk alone can cover the fee for a family that checks bags. Citi and American announced on Oct 27, 2026 that the fee rises to $150 on Jan 24, 2027, with new benefits added the same day. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "2x AAdvantage miles on eligible American Airlines purchases, restaurants and gas stations; 1x elsewhere. Miles earned also post as Loyalty Points toward AAdvantage status. First checked bag free on domestic American itineraries for the cardholder and up to four companions on the same reservation; preferred boarding (Group 5). $125 American Airlines flight discount after $20,000 in purchases in a cardmembership year and renewal. 25% back on inflight food and beverage purchases. No foreign transaction fees.",
+      "sources": [
+          "wallethub.com (Citi AAdvantage Platinum Select Review, November 2026)",
+          "moneycrashers.com (Citi AAdvantage Platinum Select Review, published 2026-10-20)",
+          "thepointsparty.com (Citi AAdvantage Platinum Select Review, updated November 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-17"
+  "last_verified": "2026-11-18"
 }
