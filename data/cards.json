@@ -655,7 +655,27 @@
           "moneycrashers.com (Citi AAdvantage Platinum Select Review, published 2026-10-20)",
           "thepointsparty.com (Citi AAdvantage Platinum Select Review, updated November 2026)"
       ]
+    },
+    {
+      "annual_fee": "$99",
+      "best_for": [
+        "airline",
+        "jetblue",
+        "checked bag"
+      ],
+      "id": "barclays-jetblue-plus",
+      "issuer": "Barclays",
+      "last_verified": "2026-11-19",
+      "name": "JetBlue Plus Card",
+      "note": "First JetBlue co-brand in the catalog and the first Barclays-issued card. The $99 fee is covered by a single round trip with a checked bag for a family, and the 5,000 anniversary points (worth roughly $50-70 toward JetBlue flights) cut the effective fee further. TrueBlue points are revenue-based and do not transfer to other programs, so there is no outsized award sweet spot. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "6x TrueBlue points on eligible JetBlue purchases; 2x at restaurants and grocery stores; 1x elsewhere. First checked bag free for the cardmember and up to three companions on the same reservation on JetBlue-operated flights. 5,000 TrueBlue points each anniversary; 10% of points back after eligible JetBlue-operated award travel; $100 JetBlue Vacations credit each anniversary year; 50% back on eligible inflight food and drinks. 1 Mosaic tile per $1,000 spent ($50,000 in a calendar year reaches Mosaic 1).",
+      "sources": [
+        "thepointsparty.com (JetBlue Plus Card Review, updated November 2026)",
+        "kritdeals.com (JetBlue Plus Card Guide, updated 2026-10-10)",
+        "points-brief.com (Barclays JetBlue Plus, updated November 2026)",
+        "dealspoints.com (Barclays JetBlue Plus Review, updated 2026-11-02)"
+      ]
     }
   ],
-  "last_verified": "2026-11-18"
+  "last_verified": "2026-11-19"
 }
