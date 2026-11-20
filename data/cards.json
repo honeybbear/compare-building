@@ -675,7 +675,26 @@
         "points-brief.com (Barclays JetBlue Plus, updated November 2026)",
         "dealspoints.com (Barclays JetBlue Plus Review, updated 2026-11-02)"
       ]
+    },
+    {
+      "annual_fee": "$595",
+      "best_for": [
+        "travel",
+        "premium",
+        "lounge",
+        "american"
+      ],
+      "id": "citi-strata-elite",
+      "issuer": "Citi",
+      "last_verified": "2026-11-20",
+      "name": "Citi Strata Elite Card",
+      "note": "Citi's premium ThankYou card and the first $595-fee card in the catalog. The $300 annual hotel benefit (2+ nights booked through Citi Travel), $200 annual splurge credit (up to two of 1stDibs, American Airlines, Best Buy, Future Personal Training, Live Nation) and $200 annual Blacklane credit can offset most of the fee, but each requires activation and specific spend. Complimentary Priority Pass Select membership plus 4 Admirals Club passes per year; points transfer 1:1 to American Airlines AAdvantage. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "12x ThankYou points on hotels, car rentals and attractions booked through Citi Travel; 6x on airfare booked through Citi Travel; 6x on restaurant purchases on Citi Nights (Friday and Saturday 6 p.m.-6 a.m. ET); 3x on restaurants at other times; 1.5x on all other purchases. Points transfer to American Airlines AAdvantage, JetBlue, Virgin Atlantic, Cathay Pacific and other partners. No foreign transaction fees.",
+      "sources": [
+        "citi.com (Citi Strata Elite Card, issuer site)",
+        "bankrate.com (Citi Strata Elite Card review, Nov 17, 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-19"
+  "last_verified": "2026-11-20"
 }

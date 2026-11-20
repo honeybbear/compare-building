@@ -1,10 +1,38 @@
 {
-  "fetched_at": "2026-11-19T15:27:11Z",
+  "fetched_at": "2026-11-20T14:44:34Z",
   "sources": [
     "Google News RSS",
     "Hacker News API"
   ],
   "topics": [
+    {
+      "title": "Premium credit card perks are piling up — and getting harder to actually use - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPME5YTlV3amgtZy1tNS1INlJMUDk5MG9hNE5YYzVIdU5LZTJOU3RVdE9oeFFPMU1hTFJlMDIxS1B2dkRhVEtfelpwUlpKekZ6S0dwLVFnS2JkM3hTZEhHcGVVZFJWbE8wX2ZhRWNfOXk0bFlqWndnaXNkUEF5TXJNblNoU0JTak14TDNaaTFyYndvVTZjZEZHUnhiTlhQbkkxQTRFYmdnV2Y5X0dsd3VXOGJZYmozMmo1a09UUDRhNzd4MHpqMV8zMjdqNzlleXUtNkZnczZQZU1PVWVWZng1QlZkdjBfUWpMT3c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 19 Nov 2026 18:07:40 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "5 Best Credit Cards for Paying Your Mortgage (Nov. 2026) - CardRates.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2LTRMWHd6dTh2RGtNc1c0LTlaWnZFZ2FHN3hTNVhzSWRaWmpJVkF6SjVzYkFSVHl6SkxRZ0ZpckV3Yy0wcnRpZTdmTlI5WTJnNXFNemxzTzJYZHIyTV95VjVYZmVacmdsY3BMSjlPcw?oc=5",
+      "source": "CardRates.com",
+      "published": "Thu, 19 Nov 2026 19:43:17 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "The Best Metal Credit Cards - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zc0pyNHpYTVdWQktVZXNway1jTWtwS0xLT3B2SGp1Zm5HalZRbEdiNkNqTFlvd01melloSDNPVFktZGFEOFBPZ1VKUGdEaFJ0bkg3MTFfUHFnTmtaQUtIVy1oZjlCR2xULUdvWmllNmdEbXhOd2ZuRQ?oc=5",
+      "source": "NerdWallet",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "10 valuable credit card welcome bonuses ending soon: Earn $1,000+ in travel with the top offers - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95dWtKTHNHMzhDNXo1NkdXLThfWlZfVjJJWTdpMms5MjZVN1hHZ2dydGhIMEdmYnV6TnZmOElXZTc1VjNUSE9xclZpNndtTlFfdndzQ0ktNHJFQ29PUVM0RmZEel95R1I5Tk9JeGMyRWZwTWxrbl9N0gF8QVVfeXFMT09ZaklCTmlNUDlkTHZqcmpyRFZqM21CaHdoR1FnenBrUGx2aVlMdnQxcExkNEFvVkxHRjA2dTVsc3JTMlk1VVpDa2Z5QnNMZHBNNjVVcjNpbHlHRDlQWFJvQUNGV2M1eXdIdDlpbXlFTk90TjFYN1FjcEpmRw?oc=5",
+      "source": "CNBC",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
     {
       "title": "The 3 Top No-Annual-Fee Business Credit Cards of November 2026 - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1ZEVVZmYVpscDdkYndtaFllZUFIYnNFRFFwVEdlaEZ1ZnNpOVBjdkxEa2xyNDNBbFN4b0I0Q1VFMTVVeTA5XzN6T0NGTEdDMnMwTzJmSnlrTFJFMThuV25WTUwzS1JoT3NKaTFyWTEtUkxkTElGMW9iVkx6cXl2V3I4MGhrclhueE9ISTJDb2djaGVCSGF1NmRDUnRrOW14aXdZRlFwZ1A0WnRFV1QtZUF3?oc=5",
@@ -13,94 +41,45 @@
       "query": "best credit cards 2026"
     },
     {
-      "title": "Top Business Credit Cards Of 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtS1NZeFdFY0FKNXJUVFQyRzR1c183cUhlcjhkNzZQaUZKR3k0R1ZOc3dLcWdxTkxUX0xoUWtxaS01UFdJUnI4blNUU1hVZGVvOEVncEVYc2FWektTcnYtMkhMRTU1dWVjWmc?oc=5",
-      "source": "Forbes",
-      "published": "Tue, 17 Nov 2026 14:08:00 GMT",
+      "title": "Best 0% APR Credit Cards of November 2026 - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckdUQVdJMUFocVRUVGZIRXJybmVzaGdWV0JCdUc3UjZlSHRHOFh3MTZHTWFPZWFyU0Q2Rm41VjRxT0U1SFRXMVU1VGNGcDItR01DNU4tZ1pmRlFyT0VWV0Q3SmtPQnI5UHBkYlJ3eVE1T250Q085SDc0UU5EOU5ZbmJYWQ?oc=5",
+      "source": "WSJ",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
       "query": "best credit cards 2026"
     },
     {
-      "title": "The credit cards that deliver the most value right now, according to a rewards expert - CNN",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81WWo0S2tFczRidHNMWmZPcFFtSGhabWtHczFCaWZWdG5UNTNNYTBBWXpGQUU2OGR1a0Z5Q2VDVnktc2gtUnFLWmpOXzU5REdoT0c1VF9xWmFEUTNQaDBSZ0xvd21XRVpHQUt3?oc=5",
-      "source": "CNN",
-      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
+      "title": "Best Premium Credit Cards [2026]: Perks That Are Worth the Annual Fee - FinanceBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwY2UwUVJ3Ym14S3loeno0T0JhNDNhblJPMERKbE1lMEt5QVFuUVp1cEt1cXpBZDV0cW1JMkhrSUs4ZXRNRkFWMkNoRUphaU9VN2dGOHlWc1pKbzVuWXc?oc=5",
+      "source": "FinanceBuzz",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
       "query": "best credit cards 2026"
     },
     {
-      "title": "What are VA loan rates today, Nov. 19, 2026 — and the best lenders - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2Z2clg2TTM4V20xb3otWGRzOVNVMXhxcTlkQ2RrWnBETjhUWXpra0htY2JsUm03Y2daZDBmNHJIcmR1SlBQbW1adHJUcDdHbkluYUtCTE1hOEo2bGtyWWpBbFRGaW9ZNVhOSVFndG1hejYwYjFKMmZlcjVOZXMzbHFyM3A2MFhjN0RaSEk0TURDNXpJRHfSAZsBQVVfeXFMTWxJWWQ2M2JsUE1xRVMySkQzM0Jub0xtQnhWSWlDZDVvWU4wSDdLQTJ3Vk5IZnVZUzlQUVpyM3lDb1dmZjl0UlZxc19fenE2c3dINENFVzZzb25QSl9XaTVqZENTOXFmQWtHZ3hZN2txa0phcVV1Smk5S3dybk9ZQTBNTVNCUFI0NGdFd0RndERNdnhRWnV5MmgzVUU?oc=5",
-      "source": "CNBC",
-      "published": "Thu, 19 Nov 2026 14:36:35 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
-      "title": "Best CD rates today, Thursday, November 19, 2026: Lock in up to 4.75% APY on shorter- and longer-term options - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdm9QVUVPSFduTUp3djZLMnlTYzNqUEJxMTZaZjlaNmJERWRjaDZVWmZmaFI1VVZnMUJhbmpLWHdGdEFWRHpUTmctZE5ldXJXS2g0Um9zRXktbXcwX2hvM2pabGdDS1IySWpiTHlaeTlVanhlRHFTS2p1c0ludXFacVd2aVViN053dmx2MVVSaFJnRzJtVnl5bUJ1UDFuWkRGaHJCby00SUVIVmRNS2JJdW9IUDhPTndGVTRjcmU0LXFhaXluWTFNdUpnOUp6RVBoV1ItRzRFUFZvSk9jMWJxYnRwNEJvN3U5UmtkcURRWmw5WFVGeUV5dUJxVHZfb2JxZGdVb000cmU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
-      "title": "These 5 companies can help settle your credit card debt - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWZqQXpYekdrT3Z1NzlxRFkwaklHYTZfNlJxTFRDQzN3RWVVeGxFaVVxWGNDXzBwUzJ0MmR2dVFHOUozRWxlaFNoT0J1d0VheFo4WGQ5YzJ5eW9NYS11cW51ZDZLSk9WYm5XSGZQcjl2OTZNVXVYX2VBZ2lMUnZvOUtBMWdxTmhEaEhwNFZTLUhCU2hpaWM0eTZhamVPSzNaQ1pIa3F4WkpCSTk1RkpVLVo4dGYwV3c?oc=5",
-      "source": "USA Today",
-      "published": "Thu, 19 Nov 2026 14:32:00 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
-      "title": "The best credit card welcome bonuses of November 2026 - The Points Guy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vMDZ3RjlXLVU0SWRwUWQ3SEJGQmdWRmhVNFNCTF9wUTFCSU5PNXlCMWZfQU04S25xbGtxOXFUUDgtalYzcFpSLVBySjY1UERkTEdBbGd2enhVa0ZIX1ZJN1pXNk9ITXY4NWw2bl96bw?oc=5",
+      "title": "7 credit card welcome offers worth a look in November 2026 - The Points Guy",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wcDVYcDNRQ244V3BMQ3VmTEQ2NDZKRVJ6UlFVV0hiVzFhdVpXVnBicTNUY1UwdkRVOXdLMllnZC00VmpsMHM2MGhLQTBEQ2JyT1hOZjdLd2FrVEN5cFoxS3pKSzR3MkIwZVZzcTBmZTJMbk5Hb0t3b0d0VE8?oc=5",
       "source": "The Points Guy",
-      "published": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
       "query": "best credit cards 2026"
     },
     {
-      "title": "3 Best Travel Credit Cards for Bad Credit (Nov. 2026) - BadCredit.org",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiQjA0YkR5MUg1MkswdEp0UFNUbGZ1MTZ4UkhSd1FRUldTQzdISUxqeldiSjhjakNyX2xyaVo4ZWVsOTFmNE9xa3VSeUdQaFFHeE5YSWptRDFPTm1MbEdYcVlRMXgyRl92b1FIUERBemhWMXZWY2dBaVlkX0otZw?oc=5",
-      "source": "BadCredit.org",
-      "published": "Wed, 18 Nov 2026 13:43:57 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
-      "title": "I’ve covered credit cards for 10 years — these are my favorite cash back cards - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iT2cydFVZV0todFhCcnZTZWtJSWRhczdqVlZoaE5ablFyVVFiUi1XZFVrSEVCZk5YVmM4eGtOSlgySV9YeW5lOW5oQnFaZHplS2VLMklKZ2tybXdTbGFJSDRsM3p3c1NZUmlTV0hGOGpWZ09ubDhOR09YLUkwdw?oc=5",
-      "source": "CNN",
-      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
-      "title": "3 ways to save on groceries when half of Americans say food prices strain their budget - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaUpZZHNqWHVhanJIek1xVm1SSl9uNjlyX1hTYXllWGRvdFhScG1nY3M0ZzlwWUgxQUUtQU1RZC1HRnNwYkVMTkpCVVMwN1RXNDl4bmwwZGREa1BnSDVoVnRTdElzZWvSAWxBVV95cUxPQ09PTmk2S25VaG54aEpiSHpUdE9NU1E4dG5tWVJpOXpOazU2MVNBd3BmTU5NNFl5LXNhUzdOa3F1a0tLOUF0QVpKNjhQZEdMN05qTjBaQXNsbXlMNkxCR0gyS2lIbVpuNHB5TUs?oc=5",
-      "source": "CNBC",
-      "published": "Thu, 19 Nov 2026 12:22:30 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
-      "title": "How to Get 5% Back on Groceries and 7% on Dining With the Chase Freedom Flex - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObVNidk5vLXdTb0VTeFI5MnUzVUdMdm5ZV29xMHVhQ0FNaXk5M0l6Q2Zrc2hwZDg2bWp0Q3RwS3BwcGxNa1AxZmdjNktjUFdpREZCWThXUW1paGFCbk93c1g4UjQ1czhUZkZwUndIR0RrVHVNWUJVRkdjZGFIc1pzcXpVMURvTlFma1NNcHhVU2lhLW5SdGl1dndPdTFxc1haYUwzRzY3eEhteHZGdVFWYk9nRTJnd2dSM19GS1l4di00QQ?oc=5",
+      "title": "Get 6% Cash Back on Holiday Shopping and a $200 Bonus With This Bank of America Card - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHhqNk5lbXFidjdTQk5tMkZrMzZVdU9GSTJRSXR6eXhCWUY5a3o0X2c0eHBpU0hNdElfQXFZSzYwdGQyQXNVMUpzU0xIb2ZIVm5ibnpIY2tscVZlUXRCbFhzX1VnQ25UTTY1cHJLS0FUWmstLUc2SVJJV3hMaF9fcGZFZUQwZGZuV0ZuRG4zSlFHVWMwYjE4T3Rwa1Q0dGkxN3RLR2NwRnA3dWZfUFN3X0VBNGZqMnY3ZzRTZkZ3V3pRcUdPOHlfTDhxbmY?oc=5",
       "source": "The Motley Fool",
-      "published": "Thu, 19 Nov 2026 12:00:49 GMT",
+      "published": "Fri, 20 Nov 2026 12:01:19 GMT",
       "query": "best cash back credit cards"
     },
     {
-      "title": "What makes the Amex Platinum stand out among premium rewards cards? - The Points Guy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CWldibG5oaUprVTlNQVRsanRjcFhQbWhLNzhXNHBndk1RR1FRc1duSG1wUkR3SzEwV3ZMOGNJdndvc0FiU2JVeUthYVVHUGdsWEpoQUt2UUhSWG5LeWVqVzdWQVJHaEpJQ0ZTRzRiUDEzZXZrRU1SbkV0Mzk?oc=5",
-      "source": "The Points Guy",
-      "published": "Thu, 19 Nov 2026 03:53:33 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
-      "title": "Cash-Back Credit Cards That Feel High-End - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l6dVZVVkZnX1VzcXh3RlBvdmFHcW5yeDZoVzA0M0tNc0otNUc0V3BXcUhRWFVVTVFvZ3hwZGM2UWh6LWtjUFljX3NVU3l0d2Fhbmo2c3VnWFpHcXJrOW5WRDhlaGxKZ1c5NTYzM1V0dGl5UXBPcG1mdkpzdUI5RExaTlV4TkNYRnV4LUF2alY?oc=5",
+      "title": "Best Navy Federal Credit Union Credit Cards - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3paRjIydjM4QmtDNDUtbUs4RU5tdGFwZkJiMHBldF9VV09VdFBBQVJtbEdYRE92OEdneDRwd0dHUjVfZjI1NjBuTVl5azY4WVlfa1VPa0pPUDlfTThETGhCOXRUa3JoSWRkNUZMU3p1aTBadGR6aVZNc2VhRzVmcWNB?oc=5",
       "source": "NerdWallet",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "published": "Thu, 19 Nov 2026 20:29:43 GMT",
       "query": "best cash back credit cards"
     },
     {
-      "title": "Best Cash-Back Credit Cards Of 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VRG9NVERpYkhKNjlSLTlua1dFSTZQcWlsWkpYNmVzQ2JfYjFjRnVVbUxsNV9KTUlaZ1lIME1NZkJrT21iX2xXVDdYUGZVX25PaU5nUXdrRUF1SHpod1c1N3hKUGxJU3lXc1BB?oc=5",
-      "source": "Forbes",
-      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "title": "Rove launches personalized shopping offers with up to 25 miles per dollar - The Points Guy",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cFNGUTQyYWNUMlVCdXpKMkhjQzhWai1DZzZlNnZWUWYydWlNaS1OYVVHdkJaTzJrNTZwQ0dJVEswWWJiXzJwM0JGZG9hNk1kNjk0VHhPUXh2d1otZzY5elZhV2NMa1ZtTTRIOEZKYVc?oc=5",
+      "source": "The Points Guy",
+      "published": "Fri, 20 Nov 2026 11:00:53 GMT",
       "query": "best cash back credit cards"
     },
     {
@@ -111,24 +90,38 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "What Is the Standard Cash-Back Rate for Credit Cards, 1.5% or 2%? - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmhDd25EaDFXZEtFbFlmckpOLTVjV2s3Yks5Q29WX2QyOV96TEdteVVaOERZUjAyVnpUbE53dl84cTFBUEdNUmRVWk13cDM5RERYU0xBRTNrNVc5RVVVaEdfeWc0ZkR1bnNpdmhSSnJhVUwxUFY2QUhVcFE0R3VLYkI1alNVTUJXNi1JUTdaNzU2MlNESmlBaHpfZFJLdlJv?oc=5",
-      "source": "NerdWallet",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "title": "Best Cash-Back Credit Cards Of 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VRG9NVERpYkhKNjlSLTlua1dFSTZQcWlsWkpYNmVzQ2JfYjFjRnVVbUxsNV9KTUlaZ1lIME1NZkJrT21iX2xXVDdYUGZVX25PaU5nUXdrRUF1SHpod1c1N3hKUGxJU3lXc1BB?oc=5",
+      "source": "Forbes",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "query": "best cash back credit cards"
     },
     {
-      "title": "Best Brokerage Accounts in 2026 - SmartAsset.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RQmZSSDZ1c0tzY1ltcHFYdFhYQ0dRV3hYREhuQW9IbVJLSUFNM1ZhNEJzOTk5eWZnNG51SHpBLWF5OE4yUzhkbTBDQWtTWUFRNlYwcVJ4WlJsb2NRVEZtbHYxc3UyZUk?oc=5",
-      "source": "SmartAsset.com",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "query": "best brokerage account"
+      "title": "The 3 Best Business Cash Back Cards You Can Get Right Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkxVZ0ZYak1xZlA4ejNlRTlkSE02NWhfMWdsZ2RMalQ1MDFKakI2R0V3T1hOVTBaT1QzR2o5SHh0cC0xZHVsa1QwX1lyQ0wzNHJqelYzZTZPV3hFZFhKZU1sTGFtWnJ0SVNZU3JrUWgyZVl3MG11SURrTFVfaHBhay1mLVVIbFFzVHp4d2NHNGdYaWt5UEFEaGR4bExfQjN3a3RNQ0FKN2loN19iQWc?oc=5",
+      "source": "The Motley Fool",
+      "published": "Fri, 20 Nov 2026 11:01:26 GMT",
+      "query": "best cash back credit cards"
+    },
+    {
+      "title": "The credit cards that deliver the most value right now, according to a rewards expert - CNN",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81WWo0S2tFczRidHNMWmZPcFFtSGhabWtHczFCaWZWdG5UNTNNYTBBWXpGQUU2OGR1a0Z5Q2VDVnktc2gtUnFLWmpOXzU5REdoT0c1VF9xWmFEUTNQaDBSZ0xvd21XRVpHQUt3?oc=5",
+      "source": "CNN",
+      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
+      "query": "best cash back credit cards"
     },
     {
       "title": "Best Brokerage Accounts for Online Investing and Stock Trading in 2026 - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPODRrS2dhakhPWjRMbnJSdm5kbUFJV1R2cVp1NEZadVJYZHcyS1pleU02b2xCdWdNS0FiLXppTFpEQzl2QWxmRlV0NnVzbUNrOG5QM2NGVnppY0xCV096Uy1RR0VmOHluSEdTSGxJQ3J0UlR6a0wzRm93d0g5djQ?oc=5",
       "source": "NerdWallet",
       "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "query": "best brokerage account"
+    },
+    {
+      "title": "Best Brokerage Accounts in 2026 - SmartAsset.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RQmZSSDZ1c0tzY1ltcHFYdFhYQ0dRV3hYREhuQW9IbVJLSUFNM1ZhNEJzOTk5eWZnNG51SHpBLWF5OE4yUzhkbTBDQWtTWUFRNlYwcVJ4WlJsb2NRVEZtbHYxc3UyZUk?oc=5",
+      "source": "SmartAsset.com",
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
       "query": "best brokerage account"
     },
     {
@@ -149,7 +142,7 @@
       "title": "Anthropic IPO: How to buy a company's stock when it IPOs - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWEtVGM4MzhoaHFBVThnRGZvVGNjNUZ6TzBqNGJZZnphR1RhcHJMeHlfaHY5Z183aFRIYm1jVXRsbmw2RzRsTDdwb3NOYkI2VjBZM0toRkZQYS05T2tVOWt2Mkp0czNQOF9VN3loNHdTSnhYNDhua0hvdVFYQVgyOWEtS282R3dGeFVlYmx1cUdGRmRnVVliN3N6TjYxRXhaTElOWTVzR2J1a0ZXeHVCbzdMVVBRSFNGOEpBTjA3QVY2eFUyS3hrVlRB?oc=5",
       "source": "Yahoo Finance",
-      "published": "Wed, 18 Nov 2026 21:47:58 GMT",
+      "published": "Thu, 19 Nov 2026 22:47:31 GMT",
       "query": "best brokerage account"
     },
     {
@@ -181,6 +174,13 @@
       "query": "best online broker 2026"
     },
     {
+      "title": "Best commission-free stock trading and investing apps of 2026 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FOVlrc0Fjc3BCZE9BV29KUUQxcW1jVlB0OWJkMVZiM0d2RUtzT2pycHc3a3lLdERacXIwTW9oU19YMjdva2lZVmtRZm8tbGw1dUFCUjZlWXVYbnpGOXExUjl6YTk5OHFiRzRPNGRBb9IBdEFVX3lxTE1KLV9SdHMwRHdSUDlnVGMyMWN5Rm1GQXFvd1JXUHpxWk8tWC1lSXRIc2poQm5lbFFlWUFvNW1hTDJTNVdlaUttLUkzanRrLVhDSUhVckFBeGtJOW1TYzVsenVYOFA2YnN0cVlOUmFJakQ5Snhp?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "query": "best online broker 2026"
+    },
+    {
       "title": "Best Online Brokers and Trading Platforms for 2026 - Kiplinger",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1paeUp4T1laZWppQWRXVVVYaVNzeFRIQmNnWHRTa09oZ3R1ZkQySDZZV2Q0U3hQUTlOaE14b3MxY2FCRVJ2Q2NGVUhxc3NRN29jU0FKZFdlemF3TjU4YnBMUEtoc0dRX0htUHVPUUNFODRuQVRibnpOakhMMVRxNEJvLXJ3NFJ2b3pfMnpMazM2Y05XeVRGMUlfYnlFbDdyZnRTR1NxVU52RWdNY3k5VlFhZnJuNDdqampyMnN3?oc=5",
       "source": "Kiplinger",
@@ -192,13 +192,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40OVdqN1VXRDhISDE2R09YYWpDSUVYRWo4R2NOejBzZEdTb0RyUHhTNExFeUc0U1Z5YUl1NXMzaEZ4WU5FcFl0V0lkNEY4dXpMQkhKZnFWRVR5ZlU?oc=5",
       "source": "Moomoo",
       "published": "Tue, 21 Jul 2026 17:57:23 GMT",
-      "query": "best online broker 2026"
-    },
-    {
-      "title": "Best Day Trading Platforms Of 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NUTUFKLVpoNW5Nbm8wVHJrS0NhN2dvMmhGSWpMZFFRZlNtcjI4TjRGbzZ1bExqdXMtRWN2V2tqN2ZieDdkUTY3SkxVTEpwSndnbUI1NXJld0R0S2JKNUE3RDljSzVOOG15SXhEakw5SmZ3NVZaT24yX1lFTlFwRjVZRQ?oc=5",
-      "source": "Forbes",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "query": "best online broker 2026"
     }
   ],
