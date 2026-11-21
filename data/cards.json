@@ -572,7 +572,7 @@
       "issuer": "Chase",
       "last_verified": "2026-11-14",
       "name": "United Club Card",
-      "note": "First United co-brand card in the catalog; second airline co-brand after Delta SkyMiles Gold. $695 fee buys a full United Club membership (valued by Chase at $750+/yr) \u2014 the card only makes sense if you would buy the membership anyway. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "note": "United's premium co-brand in the catalog. $695 fee buys a full United Club membership (valued by Chase at $750+/yr) \u2014 the card only makes sense if you would buy the membership anyway. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "5x miles on United purchases (11x total including MileagePlus member miles earned on the fare); 2x on dining and all other travel; 1x elsewhere. Full United Club membership for the cardholder plus one guest at 45+ locations worldwide. Free first and second checked bags for the cardholder and one companion on the same reservation. Up to $120 Global Entry/TSA PreCheck/NEXUS credit every 4 years; 25% back on United inflight purchases; Premier Access travel services; no foreign transaction fee.",
       "sources": [
         "financebuzz.com (United Club Card Review 2026)",
@@ -694,7 +694,27 @@
         "citi.com (Citi Strata Elite Card, issuer site)",
         "bankrate.com (Citi Strata Elite Card review, Nov 17, 2026)"
       ]
+    },
+    {
+      "annual_fee": "$150 ($0 first year)",
+      "best_for": [
+        "travel",
+        "airline",
+        "united",
+        "checked bag"
+      ],
+      "id": "chase-united-explorer",
+      "issuer": "Chase",
+      "last_verified": "2026-11-21",
+      "name": "United Explorer Card",
+      "note": "United's mid-tier co-brand and the second United card in the catalog after the United Club Card. The annual fee rose from $95 to $150 in the 2026 refresh; the $200 annual TravelBank credit belongs to the pricier Quest, not this card — the Explorer instead earns a $100 United travel credit after $10,000 in annual spend. Free first checked bag for the cardmember and one companion, Group 2 priority boarding, and 2 United Club one-time passes per year cover the fee for anyone flying United a few times a year. A 10,000-mile award flight discount unlocks after $20,000 in annual spend, plus over $500 in narrow partner credits (Instacart+, rideshare, Avis/Budget, JSX). Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "9x total miles on eligible United flights (6x MileagePlus member miles on the fare plus 3x on the card); 3x on all other eligible United purchases; 2x on hotel stays booked with the hotel and on dining; 1x elsewhere. Up to $120 Global Entry/TSA PreCheck/NEXUS credit every 4 years; 25% back on United inflight purchases; no foreign transaction fees.",
+      "sources": [
+        "creditcards.chase.com (United Explorer Card, issuer site)",
+        "thriftytraveler.com (United card bonus offers, Oct 2026)",
+        "smartertravel.com (United Explorer Card, 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
 }
