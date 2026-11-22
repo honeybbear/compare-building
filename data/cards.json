@@ -714,7 +714,27 @@
         "thriftytraveler.com (United card bonus offers, Oct 2026)",
         "smartertravel.com (United Explorer Card, 2026)"
       ]
+    },
+    {
+      "annual_fee": "$350",
+      "best_for": [
+        "airline",
+        "companion certificate",
+        "delta",
+        "elite status"
+      ],
+      "id": "delta-skymiles-platinum-amex",
+      "issuer": "American Express",
+      "last_verified": "2026-11-22",
+      "name": "Delta SkyMiles Platinum American Express Card",
+      "note": "The mid-tier Delta co-brand, sitting between the Gold ($150, already in the catalog) and the Reserve. The annual companion certificate is the whole argument: after each renewal it covers a companion's round-trip Main Cabin ticket (U.S., Mexico, Caribbean, Central America; not Basic Economy) for taxes and fees only, so one trip can cover the $350 fee — but no certificate arrives in year one. The 2,500 MQD head start each year is half the 5,000 MQDs needed for Silver Medallion, plus 1 MQD per $20 spent. Up to $390 a year in narrow credits ($150 Delta Stays, $10/month Resy, $10/month rideshare; enrollment required). No Sky Club access. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "3x miles on Delta purchases and hotels booked directly with the hotel; 2x at restaurants worldwide and U.S. supermarkets; 1x elsewhere. Annual companion certificate after renewal (round-trip Main Cabin, companion pays taxes and fees). First checked bag free for the cardholder and up to 8 companions on the same reservation, second bag free for the cardholder on domestic flights; priority boarding. 15% off Delta award flights (TakeOff 15); Global Entry/TSA PreCheck credit every 4 years; 20% back on Delta inflight purchases; no foreign transaction fees.",
+      "sources": [
+        "nerdwallet.com (Delta SkyMiles Platinum worth its fee, updated 2026-10-29)",
+        "thepointsguy.com (Delta SkyMiles Platinum Amex review, Nov 2026)",
+        "moneycrashers.com (Delta SkyMiles Platinum review, Nov 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-22"
 }
