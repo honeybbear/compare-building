@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-10-27. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-11-23. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -734,7 +734,28 @@
         "thepointsguy.com (Delta SkyMiles Platinum Amex review, Nov 2026)",
         "moneycrashers.com (Delta SkyMiles Platinum review, Nov 2026)"
       ]
+    },
+    {
+      "annual_fee": "$229",
+      "best_for": [
+        "airline",
+        "southwest",
+        "checked bags",
+        "seat selection"
+      ],
+      "id": "southwest-rapid-rewards-priority",
+      "issuer": "Chase",
+      "last_verified": "2026-11-23",
+      "name": "Southwest Rapid Rewards Priority Credit Card",
+      "note": "Chase's top personal Southwest card and the second Southwest co-brand in the catalog (the $99 Plus is already here). The 2025 refresh removed the old $75 annual Southwest travel credit and the four upgraded boardings, so the $229 fee now has to be justified by seating: a free Preferred seat at booking and free Extra Legroom upgrades within 48 hours of departure (when available), for the cardholder and up to eight companions. The 7,500 anniversary points are worth roughly $94 at TPG's October 2026 valuation, leaving about $135 of fee to cover with the seat and bag perks. Southwest announced further Rapid Rewards changes effective December 2, 2026 — verify current terms on the issuer's site before applying. Intro offers omitted as they change often.",
+      "rewards_summary": "4x points on Southwest purchases; 2x at gas stations and restaurants; 5x on Lyft through 12/31/2027; 1x elsewhere. 7,500 anniversary points each year. Free first checked bag for the cardholder and up to eight companions on the same reservation; Group 5 boarding. 25% back on inflight purchases including Wi-Fi. 10,000-point Companion Pass qualifying boost in 2026; 2,500 tier qualifying points per $5,000 spent in 2026 (from 2027, 1 TQP per $1 spent). No foreign transaction fees.",
+      "sources": [
+        "thepointsguy.com (Southwest Priority Credit Card review, Nov 2026)",
+        "bankrate.com (Southwest Rapid Rewards Priority Credit Card review, 2026)",
+        "moneycrashers.com (Southwest Rapid Rewards Priority Credit Card review, Nov 2026)",
+        "travelsummary.com (Southwest Priority Card review, Nov 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-22"
+  "last_verified": "2026-11-23"
 }
