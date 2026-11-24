@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-11-23. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-11-24. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -755,7 +755,28 @@
         "moneycrashers.com (Southwest Rapid Rewards Priority Credit Card review, Nov 2026)",
         "travelsummary.com (Southwest Priority Card review, Nov 2026)"
       ]
+    },
+    {
+      "annual_fee": "$150",
+      "best_for": [
+        "hotel",
+        "hilton",
+        "elite status",
+        "free night"
+      ],
+      "id": "hilton-honors-surpass-amex",
+      "issuer": "American Express",
+      "last_verified": "2026-11-24",
+      "name": "Hilton Honors American Express Surpass Card",
+      "note": "The mid-tier Hilton card, between the $0 Hilton Honors Amex (already in the catalog) and the $550 Aspire. The $150 fee is covered on paper by the $200 annual Hilton credit (up to $50 per quarter on Hilton stays), but only if you actually stay at Hiltons every quarter. Complimentary Gold status (80% bonus on base points, space-available upgrades, fifth night free on points stays) is the real everyday value; the Free Night Reward after $15,000 in a calendar year is the second. Spend $40,000 in a calendar year and it upgrades you to Diamond through the end of the next calendar year. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "12x points on Hilton portfolio purchases; 6x at U.S. restaurants, U.S. supermarkets, and U.S. gas stations; 4x on U.S. online retail purchases; 3x elsewhere. Complimentary Hilton Honors Gold status. Up to $200 in Hilton statement credits per year ($50 per quarter). Free Night Reward after $15,000 spent in a calendar year. No foreign transaction fees.",
+      "sources": [
+        "americanexpress.com (Hilton Honors Surpass card page, Nov 2026)",
+        "bankrate.com (Hilton Honors Surpass Card review, 2026)",
+        "nerdwallet.com (Hilton Amex Surpass review, 2026)",
+        "experian.com (Hilton Honors Surpass card details, 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-23"
+  "last_verified": "2026-11-24"
 }
