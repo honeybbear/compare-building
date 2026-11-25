@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-11-24. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-11-25. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -776,7 +776,27 @@
         "nerdwallet.com (Hilton Amex Surpass review, 2026)",
         "experian.com (Hilton Honors Surpass card details, 2026)"
       ]
+    },
+    {
+      "annual_fee": "$550",
+      "best_for": [
+        "hotel",
+        "hilton",
+        "elite status",
+        "free night",
+        "luxury travel"
+      ],
+      "id": "hilton-honors-aspire-amex",
+      "issuer": "American Express",
+      "last_verified": "2026-11-25",
+      "name": "Hilton Honors American Express Aspire Card",
+      "note": "The top of the Hilton ladder, above the $0 Hilton Honors Amex and the $150 Surpass (both already in the catalog). The $550 fee is covered on paper by the credits alone \u2014 $400/yr Hilton resort credit ($200 per half-year) plus $200/yr flight credit ($50 per quarter) \u2014 but only if you actually use them at Hilton resorts and on flights. The real headline is complimentary Diamond status (100% bonus on base points, space-available upgrades, executive lounge access at select properties) plus a Free Night Reward every year, including the first year, with more after $30,000 and $60,000 in calendar-year spend. Also includes a $219 CLEAR+ credit. Only worth it if you stay at Hiltons often enough to use the resort credit and the free night; otherwise the Surpass is the better buy. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "14x points on Hilton portfolio purchases; 7x on flights booked directly with airlines or through American Express Travel, select car rentals, and U.S. restaurants; 3x elsewhere. Complimentary Hilton Honors Diamond status. Up to $400 in Hilton resort statement credits per year ($200 semi-annually). Up to $200 in flight statement credits per year ($50 per quarter). Annual Free Night Reward, plus one after $30,000 and another after $60,000 spent in a calendar year. $219 CLEAR+ credit. No foreign transaction fees.",
+      "sources": [
+        "americanexpress.com (Hilton Honors Aspire card page, Nov 2026)",
+        "nerdwallet.com (Hilton Honors Aspire review, 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-24"
+  "last_verified": "2026-11-25"
 }
