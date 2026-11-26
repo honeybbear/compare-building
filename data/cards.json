@@ -1,5 +1,5 @@
 {
-  "_note": "Public facts only, last verified 2026-11-25. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
+  "_note": "Public facts only, last verified 2026-11-26. Card terms change \u2014 always verify current terms on the issuer's official site before applying. Fields marked 'unverified' need a fresh check.",
   "cards": [
     {
       "annual_fee": "$95",
@@ -796,7 +796,29 @@
         "americanexpress.com (Hilton Honors Aspire card page, Nov 2026)",
         "nerdwallet.com (Hilton Honors Aspire review, 2026)"
       ]
+    },
+    {
+      "annual_fee": "$350",
+      "best_for": [
+        "hotel stays",
+        "ihg",
+        "elite status",
+        "free night",
+        "luxury travel"
+      ],
+      "id": "ihg-one-rewards-premier-select",
+      "issuer": "Chase",
+      "last_verified": "2026-11-26",
+      "name": "IHG One Rewards Premier Select Credit Card",
+      "note": "The brand-new top of the IHG ladder, launched October 1, 2026 in Chase's IHG portfolio overhaul, sitting above the $150 Premier (also in the catalog). The $350 fee is covered on paper by the credits alone — $300/yr food & beverage credit at IHG properties ($75 per quarter) plus a $200/yr airline credit (requires a single flight purchase over $250) plus up to $50/yr United TravelBank Cash — but only if you actually use them at IHG hotels and on flights. The real headline is automatic Platinum Elite status (60% bonus on base points, Confirmable Suite Upgrades, early check-in/late checkout) plus 20 elite night credits every calendar year, an anniversary Free Night Reward each year (up to 60,000 points, top-up allowed), and every fourth reward night free on 4+ night award stays. Only worth it if you stay at IHGs often enough to use the quarterly F&B credit and the free night; otherwise the $150 Premier is the better buy. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Up to 28x total points at IHG hotels and resorts (12x from the card, 10x from IHG membership, 6x from Platinum Elite status); 6x on dining and all other travel including rideshare; 3x on all other purchases. Automatic IHG Platinum Elite status. Up to $300/yr in food & beverage rewards at IHG properties ($75 per quarter). $200/yr airline statement credit on a single flight purchase over $250. Up to $50/yr United TravelBank Cash (registration required). Anniversary Free Night Reward each year (up to 60,000 points). 20 elite night credits each calendar year. Every fourth reward night free on award stays of 4+ nights. No foreign transaction fees.",
+      "sources": [
+        "nasdaq.com (Chase/IHG press release, Oct 2026 launch)",
+        "nerdwallet.com (IHG One Rewards Premier Select review, 2026)",
+        "thepointsguy.com (IHG Premier Select launch, Nov 2026)",
+        "cnn.com (IHG Premier Select launch, Oct 2026)"
+      ]
     }
   ],
-  "last_verified": "2026-11-25"
+  "last_verified": "2026-11-26"
 }
