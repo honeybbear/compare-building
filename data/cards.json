@@ -808,7 +808,7 @@
       ],
       "id": "ihg-one-rewards-premier-select",
       "issuer": "Chase",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "IHG One Rewards Premier Select Credit Card",
       "note": "The brand-new top of the IHG ladder, launched October 1, 2026 in Chase's IHG portfolio overhaul, sitting above the $150 Premier (also in the catalog). The $350 fee is covered on paper by the credits alone — $300/yr food & beverage credit at IHG properties ($75 per quarter) plus a $200/yr airline credit (requires a single flight purchase over $250) plus up to $50/yr United TravelBank Cash — but only if you actually use them at IHG hotels and on flights. The real headline is automatic Platinum Elite status (60% bonus on base points, Confirmable Suite Upgrades, early check-in/late checkout) plus 20 elite night credits every calendar year, an anniversary Free Night Reward each year (up to 60,000 points, top-up allowed), and every fourth reward night free on 4+ night award stays. Only worth it if you stay at IHGs often enough to use the quarterly F&B credit and the free night; otherwise the $150 Premier is the better buy. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
       "rewards_summary": "Up to 28x total points at IHG hotels and resorts (12x from the card, 10x from IHG membership, 6x from Platinum Elite status); 6x on dining and all other travel including rideshare; 3x on all other purchases. Automatic IHG Platinum Elite status. Up to $300/yr in food & beverage rewards at IHG properties ($75 per quarter). $200/yr airline statement credit on a single flight purchase over $250. Up to $50/yr United TravelBank Cash (registration required). Anniversary Free Night Reward each year (up to 60,000 points). 20 elite night credits each calendar year. Every fourth reward night free on award stays of 4+ nights. No foreign transaction fees.",
@@ -817,6 +817,28 @@
         "nerdwallet.com (IHG One Rewards Premier Select review, 2026)",
         "thepointsguy.com (IHG Premier Select launch, Nov 2026)",
         "cnn.com (IHG Premier Select launch, Oct 2026)"
+      ]
+    },
+    {
+      "annual_fee": "$95",
+      "best_for": [
+        "business",
+        "small business",
+        "travel rewards",
+        "flat rate",
+        "transfer partners"
+      ],
+      "id": "capital-one-venture-business",
+      "issuer": "Capital One",
+      "last_verified": "2026-11-27",
+      "name": "Capital One Venture Business",
+      "note": "The successor to the Spark Miles for Business, launched April 2026 \u2014 Spark Miles is closed to new applicants, so this is the live card in that slot. Same flat 2x miles on everything, but the $95 fee is no longer waived the first year; in exchange you get up to $220 in credits that did not exist on Spark Miles: a $50/yr travel credit for bookings through Capital One Business Travel, up to $50/yr in statement credits on qualifying advertising or software purchases, and up to $120 for Global Entry or TSA PreCheck every four years. Use the two annual $50 credits and the fee is covered on paper before you count a single mile. Same Venture miles currency as the personal Venture and Venture X, transferable to 15+ airline and hotel partners, and free employee cards that also earn 2x. The honest catch, same as most business cards: Capital One reports business cards to your personal credit report, unlike Amex, Citi, and U.S. Bank. Best for a small business that wants one simple travel card and will actually use the portal credits; the Ink Business Preferred (also in the catalog) earns more on business categories but needs category tracking. Intro offers omitted as they change often; verify current terms on the issuer's site before applying.",
+      "rewards_summary": "Unlimited 2x miles on every purchase, no caps or categories. 5x miles on hotels, vacation rentals and rental cars booked through Capital One Business Travel. Transfer miles to 15+ airline and hotel loyalty programs. $50 annual travel credit for bookings through Capital One Business Travel. Up to $50 annual statement credit for purchases at qualifying advertising or software merchants. Up to $120 Global Entry or TSA PreCheck statement credit every four years. Free employee cards that also earn 2x miles. No foreign transaction fees.",
+      "sources": [
+        "capitalone.com (Venture Business vs Venture X Business, Nov 2026)",
+        "nerdwallet.com (Capital One Venture Business review, 2026)",
+        "wallethub.com (Capital One Venture Business review, Nov 2026)",
+        "joinkudos.com (Spark Miles closed to new applicants; Venture Business successor, 2026)"
       ]
     }
   ],
