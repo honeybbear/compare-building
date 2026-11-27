@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T14:47:02Z",
+  "fetched_at": "2026-11-27T16:21:24Z",
   "sources": [
     "Google News RSS",
     "Hacker News API"
@@ -48,18 +48,25 @@
       "query": "best credit cards 2026"
     },
     {
-      "title": "Finance Company Offers Holiday Suggestions for Consumers - TAPinto",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQW9RZS12U29yYUVBMkQ4Uk5TYVlYM012aGJ1NGRqRHVxemM2ME1QR0c2STlRRnp1U0xaV0VnSUtfQkgyWEsxWUhSTzdtM09zMHZycl9qWkttNFpHenh2dEtGRXpMcC00VHFNUTMxR19sMFU1TXQ2MXZBdERhX1JWMVNDS3BNbDJkNTFrLW0xSkoyUjNwMEFMRVFsWk41RUZ5NEh2T3RnV1lycjVlWnlDbVUzNWtzM3VKTHZvWVRYU0xGdXYyS0dzTnNEVzlnRlY4YW9JT3VR?oc=5",
-      "source": "TAPinto",
-      "published": "Fri, 27 Nov 2026 13:58:52 GMT",
-      "query": "best credit cards 2026"
-    },
-    {
       "title": "12 Best Credit Cards of November 2026: Our Expert Picks - Upgraded Points",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdzQ4MGd3dWlxUTRlUU1UVnljWE83QkdBZVFYVzM0ZDRISm5MMnUxVkR3Z0ExUjR5UEJHd21hMWlSbXVBZkYtS0VSTHBVS2g3YVI0T0ZBNGE?oc=5",
       "source": "Upgraded Points",
       "published": "Wed, 18 Nov 2026 13:42:20 GMT",
       "query": "best credit cards 2026"
+    },
+    {
+      "title": "The best credit card welcome bonuses of November 2026 - The Points Guy",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vMDZ3RjlXLVU0SWRwUWQ3SEJGQmdWRmhVNFNCTF9wUTFCSU5PNXlCMWZfQU04S25xbGtxOXFUUDgtalYzcFpSLVBySjY1UERkTEdBbGd2enhVa0ZIX1ZJN1pXNk9ITXY4NWw2bl96bw?oc=5",
+      "source": "The Points Guy",
+      "published": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "query": "best credit cards 2026"
+    },
+    {
+      "title": "The best business credit cards for the bills behind Small Business Saturday - The Points Guy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHNSR2tMMHpOcEhBVGtpUHUyTFdlNjg4bEdEcmZNc3FnX2F3WGFDeEsxRHByNk5sX0xmamhpR0hRMjJBWnNIckpqX3VIQnMwTGFlck1wY19JYWF6OWlqZjFRSzdvbEFSbEVNa0J5djV2SkNVZEtNYWtrU29BMUh1TFVUeGx6SGVWeklDU3lsWTJXQQ?oc=5",
+      "source": "The Points Guy",
+      "published": "Fri, 27 Nov 2026 16:02:47 GMT",
+      "query": "best cash back credit cards"
     },
     {
       "title": "Best Capital One credit cards of December 2026 - CNBC",
@@ -69,17 +76,17 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "I’ve covered credit cards for 10 years — these are my favorite cash back cards - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iT2cydFVZV0todFhCcnZTZWtJSWRhczdqVlZoaE5ablFyVVFiUi1XZFVrSEVCZk5YVmM4eGtOSlgySV9YeW5lOW5oQnFaZHplS2VLMklKZ2tybXdTbGFJSDRsM3p3c1NZUmlTV0hGOGpWZ09ubDhOR09YLUkwdw?oc=5",
-      "source": "CNN",
-      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
       "title": "6 Cards for Black Friday and Holiday Shopping: Cash-Back, Amazon Rewards, and 0% APR - Upgraded Points",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlVLU2lPbjdYbDVHWEJTYzZZVEo2S3BiME5fbEtZa1RqOWJidjRMVGdXSGtJQWhhdy1LRFlRdkxiWTJXOEIxbkZ5OGRVN3hKSndYR0E3VW4wT19SWnE3WllmMDB3elBCUjV3SlRMcEU0NVg0ZGRlTmhHWG1IeUQwckVn?oc=5",
       "source": "Upgraded Points",
       "published": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "query": "best cash back credit cards"
+    },
+    {
+      "title": "I’ve covered credit cards for 10 years — these are my favorite cash back cards - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iT2cydFVZV0todFhCcnZTZWtJSWRhczdqVlZoaE5ablFyVVFiUi1XZFVrSEVCZk5YVmM4eGtOSlgySV9YeW5lOW5oQnFaZHplS2VLMklKZ2tybXdTbGFJSDRsM3p3c1NZUmlTV0hGOGpWZ09ubDhOR09YLUkwdw?oc=5",
+      "source": "CNN",
+      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
       "query": "best cash back credit cards"
     },
     {
@@ -104,13 +111,6 @@
       "query": "best cash back credit cards"
     },
     {
-      "title": "Top Cash Back Credit Cards: Maximizing Your Rewards in 2026 - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHdnclVCQjNYclJNcnE2bWlNYTRTNUgxNnRLdGpaR3VkSWk1ZWlnZWctZXlUYzRLZmtTM1B2RnlPcVJROERVWm1aMnR4T21xZjVFQXB3amdSUXYyczY4NkROWWJZbE5mTmFZWnhIN2I2aTR3VEtpYUNtYWtTQlJfaTFkV2l0RDBZN05DYV9aSi1nT3hFZFJNUTFLWHcySS1Bd2dXb1VvYUF1Unp1emtGUjdVaw?oc=5",
-      "source": "Kiplinger",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "query": "best cash back credit cards"
-    },
-    {
       "title": "The 11 best credit card sign-up bonuses of December 2026 - CNBC",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zTHJqZVFRbXIwZ3phLUM5NmZWTnlsamlEWGZBa2hiM0hYLUI2VzZwRjczUENodWlJSldwUjRiVWs5VzUyeWw3bGE5T3hvQzdHLVFpWEoxaHI5VndiT3FwV0E2Zy1zaTFkaWI5VWFB0gFzQVVfeXFMUFJYdVRMOFlaSE1SR0w5M25XYnV3WjlrWVdFU0U5d2JLOHoxQVMxOTJGak82S3ZwYllXZHlmTnVBbmpXNk5hNkxtRGNQcTF6bUE4Sy04NE0zdUk0NERMVi1JTnB5TmhwVDNjSV9naGJrOEh4SQ?oc=5",
       "source": "CNBC",
@@ -132,10 +132,17 @@
       "query": "best brokerage account"
     },
     {
-      "title": "The Best Online Brokerages of November 2026: No Account Minimums and $0 Trades - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXQzS1VUY0xLVi1fUlhYd21GMlZmS1dpTThkQlRCc2dPWVFwOE1iWXF5T2w3eVVxT2xzY1BJTU44aGp2Zjd4WDlUbmhNdlVNeUNYVWstZ1RHbHN3bngyMHR3Q0dVSk0yZEdtZjVLSjhYanhDelNhLXRlcU1Pc0cwNjRBdFpSV1dhMGc?oc=5",
-      "source": "The Motley Fool",
-      "published": "Sun, 22 Nov 2026 11:35:47 GMT",
+      "title": "Best Brokerage Accounts in 2026 - SmartAsset.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RQmZSSDZ1c0tzY1ltcHFYdFhYQ0dRV3hYREhuQW9IbVJLSUFNM1ZhNEJzOTk5eWZnNG51SHpBLWF5OE4yUzhkbTBDQWtTWUFRNlYwcVJ4WlJsb2NRVEZtbHYxc3UyZUk?oc=5",
+      "source": "SmartAsset.com",
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "query": "best brokerage account"
+    },
+    {
+      "title": "10 Best Online Brokerages For 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5",
+      "source": "Forbes",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "query": "best brokerage account"
     },
     {
@@ -146,17 +153,17 @@
       "query": "best brokerage account"
     },
     {
-      "title": "Best UK Online Brokers In 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNVdUUjltcjZsdTVSSkRrdU5zemdIbkRCY0ZXLTloZVJ3R1dqdXFwUENISjN4QzZyQWtqcWhUZHdkVkhLS3lOYW9qRVkxNmRDM0oycnlteWZsTFhXRlNqdXk2ZDNELVh3clJ1NjI2eHh1SDEw?oc=5",
-      "source": "Forbes",
-      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "title": "Best Brokerage Accounts for Beginners: Our Top Picks for 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHdsZ2RHNnBrUXJMMDJBcDVDRFduNWl4blVzenF2ZkREZGg2U0hPTUk0eWY5ZE9KQ2c4dXc0UUxZR1Jfb09pejdHbmF5WVlrUVRLS2pkeW9RTHp3S01JVExtY2xhU00wdlB5OEtJUmxlNEczcDVsOEI1bGs2R1RrVmtiVktRZ1Qx?oc=5",
+      "source": "The Motley Fool",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
       "query": "best brokerage account"
     },
     {
-      "title": "Earn up to $10,000 with the best bank and brokerage bonuses of November 2026 - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFdoSTZFMDdqZEZaTDBQaVZYcVVsZmV5ZDd1MmlldG5kSzJIU0hyM3RlRk1RQmlBZHVaOXpnS2JnbmphVTMweVFNZ3NRbENTTlAxMFJHUzRwbzhUeDNmTmlQRkx3Rjd1NTFUemtLMzJhbzBJcnBwYXJtdk44Mk5oRXpJSmpaX1JwQ1FqQWRYX2lOOUYtVmdLZVc2SnZ2dw?oc=5",
-      "source": "MarketWatch",
-      "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "title": "Best Online Brokers and Trading Platforms for 2026 - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1paeUp4T1laZWppQWRXVVVYaVNzeFRIQmNnWHRTa09oZ3R1ZkQySDZZV2Q0U3hQUTlOaE14b3MxY2FCRVJ2Q2NGVUhxc3NRN29jU0FKZFdlemF3TjU4YnBMUEtoc0dRX0htUHVPUUNFODRuQVRibnpOakhMMVRxNEJvLXJ3NFJ2b3pfMnpMazM2Y05XeVRGMUlfYnlFbDdyZnRTR1NxVU52RWdNY3k5VlFhZnJuNDdqampyMnN3?oc=5",
+      "source": "Kiplinger",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
       "query": "best brokerage account"
     },
     {
@@ -167,31 +174,10 @@
       "query": "best brokerage account"
     },
     {
-      "title": "What are IPO stocks and the best brokers for access? - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PRE1GZnNUSTlhQ2FMdFJMSEEyOENDUVdxOFE1U3NaYV84TmNiMWp4aTdSUHQ4UjJoNXNwemdTa2w0ejZUbVdYMnFoMEQ0Znh3WFVQYjFZV1JsY2ZjNERTNHFqU0RfU0Z3Mkd30gFwQVVfeXFMTVlFekQ3M0RvZ1ZIYnFWUlByeXZCbzM0MmdSUlJFZ0ZJb0o3aUNpaHdhUFRFUlc3eDAxQ0JrUjlJX3BpTWppa08wRGRKalU1cUJldnFRRzRUajFNa25pWk5fWmJfeHpqakpaaVZTZEFGbQ?oc=5",
-      "source": "CNBC",
-      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "query": "best brokerage account"
-    },
-    {
-      "title": "10 Best Online Brokerages For 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5",
-      "source": "Forbes",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "query": "best online broker 2026"
-    },
-    {
-      "title": "Best Online Brokers and Trading Platforms for 2026 - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1paeUp4T1laZWppQWRXVVVYaVNzeFRIQmNnWHRTa09oZ3R1ZkQySDZZV2Q0U3hQUTlOaE14b3MxY2FCRVJ2Q2NGVUhxc3NRN29jU0FKZFdlemF3TjU4YnBMUEtoc0dRX0htUHVPUUNFODRuQVRibnpOakhMMVRxNEJvLXJ3NFJ2b3pfMnpMazM2Y05XeVRGMUlfYnlFbDdyZnRTR1NxVU52RWdNY3k5VlFhZnJuNDdqampyMnN3?oc=5",
-      "source": "Kiplinger",
-      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "query": "best online broker 2026"
-    },
-    {
-      "title": "Best Brokerage Accounts in 2026 - SmartAsset.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RQmZSSDZ1c0tzY1ltcHFYdFhYQ0dRV3hYREhuQW9IbVJLSUFNM1ZhNEJzOTk5eWZnNG51SHpBLWF5OE4yUzhkbTBDQWtTWUFRNlYwcVJ4WlJsb2NRVEZtbHYxc3UyZUk?oc=5",
-      "source": "SmartAsset.com",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "title": "The Best Online Brokerages of November 2026: No Account Minimums and $0 Trades - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXQzS1VUY0xLVi1fUlhYd21GMlZmS1dpTThkQlRCc2dPWVFwOE1iWXF5T2w3eVVxT2xzY1BJTU44aGp2Zjd4WDlUbmhNdlVNeUNYVWstZ1RHbHN3bngyMHR3Q0dVSk0yZEdtZjVLSjhYanhDelNhLXRlcU1Pc0cwNjRBdFpSV1dhMGc?oc=5",
+      "source": "The Motley Fool",
+      "published": "Sun, 22 Nov 2026 11:35:47 GMT",
       "query": "best online broker 2026"
     },
     {
@@ -200,6 +186,20 @@
       "source": "Forbes",
       "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "query": "best online broker 2026"
+    },
+    {
+      "title": "The best online brokerages in Canada for 2026 - Ratehub.ca",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWS0yOGdTdnZRUUw0aXFSZHdmcmtLR243Qi1mbUFtQTZVNUFGSi1XeHB0aXdCVV9YNlUzLTF5SFJoRUdNNlRlSVBGeTN4b2pmU29JOHlDd05oVkpxc0pFNEwtbldVZXZUS0gyMy1B?oc=5",
+      "source": "Ratehub.ca",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "query": "best online broker 2026"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "published": "",
+      "query": "finance filter"
     }
   ],
   "errors": []
